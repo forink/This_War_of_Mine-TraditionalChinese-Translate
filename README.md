@@ -1,7 +1,7 @@
 ## This_War_of_Mine-TraditionalChinese-Translate
- [This War of Mine](https://store.steampowered.com/app/282070/This_War_of_Mine/) 【我的戰爭】 中文正體模組
+ [This War of Mine](https://store.steampowered.com/app/282070/This_War_of_Mine/) 【這是我的戰爭】 中文正體模組
 
-以 **Frostpunk 1.3.3 steam 原版之簡體中文語系** 為基礎，
+以 **This War of Mine 5.1.0 steam 原版之簡體中文語系** 為基礎，
 進行正體中文化與差異口語修正。
 
 目前適用版本為 This War of Mine 5.1.0，其他平台請自行測試，非正版用戶請勿下載。
