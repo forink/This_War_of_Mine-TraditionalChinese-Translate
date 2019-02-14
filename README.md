@@ -14,15 +14,17 @@
 
 ### 使用方式
 
-請先至 Steam遊戲目錄\SteamApps\common\This War of Mine 中，
-
+1.請先至 Steam遊戲目錄\SteamApps\common\This War of Mine 中，
 備份遊戲目錄 localizations.dat 與 localizations.idx 
-以及 LocalizationPacks 目錄中的 Chinese.lngp
+以及 LocalizationPacks 資料夾中的 Chinese.lngp
 
-並將本模組中對應檔案覆蓋至遊戲目錄即可。
+2.將本模組中對應檔案覆蓋至遊戲目錄。
 
-(source為文本原始檔，無須使用)
+3.刪除遊戲目錄中 LocalizationBinFonts 資料夾
+
+Note: (source為文本原始檔，無須使用)
 
 ### Changelog
+* 5.1.0.cht.190214.2 翻譯修正，初始版編譯資源檔釋出
 * 5.1.0.cht.190214.1 翻譯修正
 * 5.1.0.cht.190214 初始版正體中文翻譯
