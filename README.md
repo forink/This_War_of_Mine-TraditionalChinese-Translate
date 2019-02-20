@@ -18,7 +18,10 @@
 備份遊戲目錄 localizations.dat 與 localizations.idx 
 以及 LocalizationPacks 資料夾中的 Chinese.lngp
 
-2.將本模組中對應檔案覆蓋至遊戲目錄。
+2.將本模組中對應檔案覆蓋至遊戲目錄，一共有3個檔案，勿遺漏。
+* localizations.dat
+* localizations.idx
+* LocalizationPacks\Chinese.lngp
 
 3.刪除遊戲目錄中 LocalizationBinFonts 資料夾。
 
@@ -26,7 +29,19 @@
 
 Note: (source為文本原始檔，無須使用)
 
+### 快速Q&A
+
+Q1.有些字不見了或缺字!
+A.有檔案沒有覆蓋到，請正確覆蓋3個檔案，並確保這三個檔案是同一個版本。
+
+Q2.覆蓋中文化檔案後還是簡體中文!
+A.請在覆蓋中文化檔案後，將LocalizationBinFonts整個資料夾刪除後，再啟動遊戲，遊戲會自動重新編譯。
+
+Q3.還是缺字
+A.安裝[思源黑體(簡)](https://github.com/forink/This_War_of_Mine-TraditionalChinese-Translate/blob/master/source/NotoSansCJKsc-Medium.otf) 或許有幫助，簡體版字型同樣有支援繁體字碼。
+
 ### Changelog
+* 5.1.0.cht.190221 調整習慣用語、修正錯字
 * 5.1.0.cht.190220 修正換行符號後第一個字被吃掉的問題
 * 5.1.0.cht.190219.1 調整習慣用語並修正錯字
 * 5.1.0.cht.190219 調整習慣用語並修正錯字
