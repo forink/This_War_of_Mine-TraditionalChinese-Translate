@@ -32,21 +32,21 @@ Note: (source為文本原始檔，無須使用)
 ### 快速Q&A
 
 Q1.有些字不見了或缺字!
-A.有檔案沒有覆蓋到，請正確覆蓋3個檔案，並確保這三個檔案是同一個版本。
+> A.有檔案沒有覆蓋到，請正確覆蓋3個檔案，並確保這三個檔案是同一個版本。
 
 Q2.覆蓋中文化檔案後還是簡體中文!
-A.請在覆蓋中文化檔案後，將LocalizationBinFonts整個資料夾刪除後，再啟動遊戲，遊戲會自動重新編譯。
+> A.請在覆蓋中文化檔案後，將LocalizationBinFonts整個資料夾刪除後，再啟動遊戲，遊戲會自動重新編譯。
 
 Q3.還是缺字
-A.安裝[思源黑體(簡)](https://github.com/forink/This_War_of_Mine-TraditionalChinese-Translate/blob/master/source/NotoSansCJKsc-Medium.otf) 或許有幫助，簡體版字型同樣有支援繁體字碼。
+> A.安裝[思源黑體(簡)](https://github.com/forink/This_War_of_Mine-TraditionalChinese-Translate/blob/master/source/NotoSansCJKsc-Medium.otf) 或許有幫助，簡體版字型同樣有支援繁體字碼。
 
 ### 已知問題
 
-* 擁有物品列表中的濾水器沒有對應名稱和說明文字!
->> 原遊戲之BUG，無解。
+Q1.擁有物品列表中的濾水器沒有對應名稱和說明文字!
+> A.原遊戲之BUG，無解。
 
-* 某些段落換行後會遺漏下一行的第一個字元!
->> 原遊戲之BUG，簡體中文時就這樣了。固定位置的文字，我可以塞全形空白讓文字正常顯示，其他則無法。
+Q2.某些段落換行後會遺漏下一行的第一個字元!
+> A.原遊戲之BUG，簡體中文時就這樣了。固定位置的文字，我可以塞全形空白讓文字正常顯示，其他則無法。
 
 ### Changelog
 * 5.1.0.cht.190221.1 修改說明文字
