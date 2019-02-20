@@ -40,7 +40,16 @@ A.請在覆蓋中文化檔案後，將LocalizationBinFonts整個資料夾刪除�
 Q3.還是缺字
 A.安裝[思源黑體(簡)](https://github.com/forink/This_War_of_Mine-TraditionalChinese-Translate/blob/master/source/NotoSansCJKsc-Medium.otf) 或許有幫助，簡體版字型同樣有支援繁體字碼。
 
+### 已知問題
+
+* 濾水器沒有對應名稱和說明文字
+>> 原遊戲之BUG，無解。
+
+* 某些段落換行後會遺漏下一行的第一個字元
+>> 原遊戲之BUG，簡體中文時就這樣了。固定位置的文字，我可以塞全形空白讓文字正常顯示，其他則無法。
+
 ### Changelog
+* 5.1.0.cht.190221.1 修改說明文字
 * 5.1.0.cht.190221 調整習慣用語、修正錯字
 * 5.1.0.cht.190220 修正換行符號後第一個字被吃掉的問題
 * 5.1.0.cht.190219.1 調整習慣用語並修正錯字
