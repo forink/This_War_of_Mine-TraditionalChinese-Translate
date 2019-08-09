@@ -1,7 +1,7 @@
 ## This_War_of_Mine-TraditionalChinese-Translate
  [This War of Mine](https://store.steampowered.com/app/282070/This_War_of_Mine/) 【這是我的戰爭】 中文正體模組
 
-以 **This War of Mine 5.1.0 steam 原版之簡體中文語系** 為基礎，
+以 **This War of Mine steam 原版之簡體中文語系** 為基礎，
 進行正體中文化與差異口語修正。
 
 目前適用版本為 This War of Mine 5.1.0，其他平台請自行測試，非正版用戶請勿下載。
@@ -49,6 +49,7 @@ Q2.某些段落換行後會遺漏下一行的第一個字元!
 > A.原遊戲之BUG，簡體中文時就這樣了。固定位置的文字，我可以塞全形空白讓文字正常顯示，其他則無法。
 
 ### Changelog
+* 6.0.0.cht.190809 DLC 餘燼漸褪 更新
 * 5.1.0.cht.190221.1 修改說明文字
 * 5.1.0.cht.190221 調整習慣用語、修正錯字
 * 5.1.0.cht.190220 修正換行符號後第一個字被吃掉的問題
