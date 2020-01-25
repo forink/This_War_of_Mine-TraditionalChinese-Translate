@@ -930,9 +930,9 @@ I'm finally full.
 If I eat more, I'll burst!
 What a feast!
 It's good to eat well once in a while.
-That'll do for now.
-I wouldn't mind another helping...
-Quite a feast!
+Workshop Centre
+Continue your last attempt.
+Replay the ending of your last attempt.
 It hurts, but I'll manage.
 It's just a scratch.
 I'm bleeding, but just a little.
@@ -995,8 +995,8 @@ This illness... I don't think I'm gonna make it.
 I'm all sore... so numb...
 Please... call the doctor...
 This goddamn disease... Not like this. Not like this...
-These pills are really helping! I should be well soon.
-It's helping. I should take more soon.
+Try to survive in a besieged city
+Switch to Classic This War Of Mine
 I feel ill, I have to rest in bed.
 I think I have a fever, I'd better hit the bed.
 I feel so weak, I'd better lie in bed for a while.
@@ -9661,13 +9661,13 @@ A small house not far from Anja's cottage. The old man Tito, who was friends wit
 Maybe my neighbour Tito can help me.
 The Samuel Institute
 My neighbour Tito told me about the people who gathered here – helping each other and their community, sharing food with those in need, and handing out meds and other supplies.
-Strange... It's so quiet here...
+Strange… It's so quiet here…
 Construction Site
 This construction site is a sad reminder of the Pogoren development program that this war interrupted. The abandoned structure might still hold resources necessary for our survival.
 I hope I can find some fuel for the heater here.
 Abandoned House
 There are rumours about a group of bandits using this abandoned house as a hideout. It might be worth sneaking in for supplies, but you'd have to be very careful not to be spotted.
-Maybe not all the useful things have been looted already... Let's have some hope.
+Maybe not all the useful things have been looted already… Let's have some hope.
 Railway Station
 Adam from the orphanage told us about this place when he asked for help evacuating the children from the war zone. He heard rumours that a group of people were working there to dig a tunnel out of the city. Maybe they could help us?
 The last train left a long time ago. The one that was supposed to follow was bombed at the station.
@@ -9692,7 +9692,7 @@ I have to be careful in this place...
 A harsh winter grips Pogoren, making life in the besieged city even more difficult. People are trying to survive in the face of constant shelling, sniper fire, and starvation, but now also have to endure the extreme cold.</n></n>Anja was struggling every day to deal with those hardships when a man, dying from gunshot wounds and the cold, collapsed at her doorstep. She took him in without hesitation, hoping that one day he would get better and tell her what happened to him.
 Historical map of Pogoren showing the city tissue over a span of few hundred years. </n>Firstly found in the ruins of </n>orthodox church after World War I.|| </n> </n></n>Ever since then kept in Muzej Pogoren </n>collection as a documentation of urban changes in the area
 Unique ancient item
-A dead body lying in a pool of blood, a single bullet shattered his head. Looks like a cold-blooded killing...
+A dead body lying in a pool of blood, a single bullet shattered his head. Looks like a cold-blooded killing…
 Anja
 Orphan
 Relic
@@ -9703,14 +9703,14 @@ Historical map of Pogoren showing the city tissue over a span of few hundred yea
 Common documents
 Some documents.
 [INFORMACJA]</n>Na tej lokacji spotykamy chorego sasiada. Grozi mu zamarzniecie gdyz nie ma czym grzac. Prosi nas o dostarczenie mu paliwa do pieca. Wspomina o Congregation House - moga tam byc wedlug niego ludzie, ktorzy mogli pomoc.</n></n>[STATUS LOKACJI = GRYWALNA]
-So cold... ^CharacterName^, is that you? Please, I need your help.
+So cold… ^CharacterName^, is that you? Please, I need your help.
 I need something to heat my place.
-But I haven't seen them for a while... I hope nothing happened to them.
-I'm freezing...
+But I haven't seen them for a while… I hope nothing happened to them.
+I'm freezing…
 I need some fuel for my heater or I'll freeze to death. I'm not feeling well, and I've already burned all I had.
 Oh, ^CharacterName^, please tell me that you brought some fuel!
 Thank you! You're saving my life here!
-Please... do something! I'm freezing...
+Please… do something! I'm freezing…
 My neighbour's body. He died of cold.
 Another body lies surrounded by complete chaos. All those books, furniture, and ceremonial items were burnt or smashed into pieces
 [INFORMACJA]</n>Na tej lokacji spotykamy sie ze Milena, ktora prosila nas o przyjscie.</n></n>[STATUS LOKACJI = GRYWALNA]
@@ -9719,7 +9719,7 @@ They are safe here.
 Milena says your family's collection will be safer in the Museum, where she will take care of it. Are you willing to pass her your collection?
 Your grandpa was a distinguished artist... I'm concerned about the safety of his legacy.
 I brought the meds!
-Thank you... I hope it's not too late to save this stranger.
+Thank you… I hope it's not too late to save this stranger.
 Ok, I trust you. Here's my collection.
 Hello, you must be Anja, right? I'm glad to see you.
 Hey! We need to talk!
@@ -9735,7 +9735,7 @@ Good to see you. Can we talk?
 Children are Freezing
 This harsh winter is more than I can manage on my own. We ran out of flammable materials to heat our place up. Andreas, the oldest one, has already got sick, and I don't know how much longer we can last under these circumstances. Can you help us out?
 And dwarfs! Dwarfs are really funny, right?
-I hope I'm not too late with this fuel...
+I hope I'm not too late with this fuel…
 These kids are strong, they should recover.
 Andreas isn't getting any better. Did you manage to bring anything?
 You might've heard me chatting with Nika, that little girl...
@@ -9805,9 +9805,9 @@ I know it wasn't easy to gather fuel and bring it here.
 All right, ^CharacterName^, I'll see what I can do.
 Did you get any food?
 Thank you, ^CharacterName^! You're saving me once again.
-Please... I need some food to survive.
-I'm so hungry...
-I've gone without food for a long time... Please, give me something to eat...
+Please… I need some food to survive.
+I'm so hungry…
+I've gone without food for a long time… Please, give me something to eat…
 Bird Carving
 Anja's grandfather had put a lot of attention to folk elements in his craft. That elmwood bird is an example of animal themes in Vysenian local art
 An elmwood sculpture of a magpie local to Pogoren carved by Anja's grandfather.
@@ -9828,17 +9828,17 @@ Patience is bitter, but its fruit is sweet...
 The stranger needs drugs.
 I must find medicine.
 He'll die without meds!
-It's getting harder...
-I have to be strong...
+It's getting harder…
+I have to be strong…
 Tito! Is everything all right?
 I think I heard a noise upstairs.
 I can't get there due to the bombing.
 I can't get there due to the harsh weather conditions.
 I'm running out of fuel too, but I'll try to figure something out.
 You could visit the Samuel Institute. There are good folks working there.
-A dead man lying on the floor...
-And more bodies down there... Something terrible must have happened.
-So many destroyed artworks and religious objects... Someone put a lot of effort into doing this.
+A dead man lying on the floor…
+And more bodies down there… Something terrible must have happened.
+So many destroyed artworks and religious objects… Someone put a lot of effort into doing this.
 Grandpa...
 You know, when I grow up...
 I'm going to be an artist. Just like you!
@@ -9888,9 +9888,9 @@ Tę rzeźbę z XIV stulecia wykonał znany artysta Niko Getika. Mimo iż pochodz
 Prince Huneric's Banner
 After the Battle of Drab Waters, large swaths of Graznavia came under Vysenian rule. Almost all the local nobles pledged homage to the new king, but the self-proclaimed Prince Huneric kept fighting until he died in a skirmish two years later. Today, he is a Graznavian national hero.
 Po bitwie nad Burymi Wodami w 1441 znaczne połacie dzisiejszej Graznavii znalazło się pod panowaniem Królestwa Vyseny. Miejscowi władcy złożyli hołdy lenne nowemu panującemu ale graznavski, samozwańczy książę Huneryk kontynuował opór aż do swej śmierci w potyczce dwa lata później. Dziś dla Graznich jest bohaterem narodowym.
-The history of the fabled kingdom of Vysena
-A collection of annals (records of the most important events of a given year) from the kingdom of Vysena, dated 1358-1576. The annals of 1420-1450 describe the details of the Vysenian expansion into the territories of today's Graznavia. These documents constitute a unique supply of information for historians' research.
-A collection of annals (records of the most important events of a given year) from the kingdom of Vysena, dated 1358-1576. The annals of 1420-1450 describe the details of the Vysenian expansion into the territories of today's Graznavia. These documents constitute a unique supply of information for historians' research.
+Dzieje przesławnego królestwa Vyseny
+Zbiór roczników (corocznych spisów najważniejszych wydarzeń) królestwa Vyseny z lat 1358-1576. Roczniki z lat 1420-1450 szczegółowo opisują Vyseńską ekspansję na tereny wchodzące w skład dzisiejszej Graznavii. Są one zarówno unikalnym materiałem do badań historyków.
+Zbiór roczników (corocznych spisów najważniejszych wydarzeń) królestwa Vyseny z lat 1358-1576. Roczniki z lat 1420-1450 szczegółowo opisują Vyseńską ekspansję na tereny wchodzące w skład dzisiejszej Graznavii. Są one zarówno unikalnym materiałem do badań historyków.
 Lady with a Lilac Bouquet Painting
 This painting by Amadeo Sangiovani, Renaissance master and contemporary of Leonardo da Vinci and Michelangelo, is the crown jewel of the Pogoren Museum collection. It was created during the Vysenian "golden age" and commissioned by one of the kings' councillors, a woman who was alleged to be a favourite of King Rekkared IV.
 Obraz renesansowego malarza, współczesnego Leonardo Da Vinciemu czy Michałowi Aniołowi stanowi perłę pogoreńskiej kolekcji muzealnej. Malowidło to powstało w okresie "złotego wieku" Vyseny zlecone przez jednego z królewskich doradców. Według legendy kobieta na nim przedstawiona to faworyta króla Rekkareda IV.
@@ -9944,7 +9944,7 @@ Raport z starcie na Pijawczych Moczarach w 1849
 Podczas Wiosny Ludów, w latach 1848-1849 zarówno Vyseni jak i Grazni usiłowali wywalczyć sobie niepodległość. Jednym z największych sukcesów powstańców Vyseńskich był atak na konwój rosyjskich żołnierzy zmierzający do Pogoren. Niestety sukces ten był ostatnim sukcesem powstańców i dwa miesiące później ich oddział został rozbity. Dokument ten jest nie tylko jedyną relacją urzędową ze strony rosyjskiej ale wobec faktu, że powstańcy ponieśli ostatecznie klęskę i zginęli raport ten jest jedynym niepodważalnym dowodem triumfu vyseńskiego oręża.
 Political writings of Ivo Nadan
 Ivo Nadan (1830-1911) was a distinguished Vysenian political thinker, considered one of the founding fathers of Graznavia, who in his writings forged the concept of modern Vysenian and Graznian patriotism. He lived to see his idea of common statehood realised, although his dream of full equality for both peoples remained mostly on paper.
-Ivo Nadan (1830-1911) był wybitnym politykiem viseńskim, który w trudnych latach schyłkowego dziewiętnastego stulecia usiłował stworzyć nowoczesny patriotyzm wspólny i dla Graznych i dla Vysenów. Mimo, iż cieszył się olbrzymim szacunkiem wśród przedstawicieli obu narodowości to nie wychował on godnych następców i głoszone przez niego idee powołania wspólnego i partnerskiego istnienia obu nacji w jednym państwie zostały zarzucone.
+Ivo Nadan (1830-1911) was a distinguished Vysenian political thinker, considered one of the founding fathers of Graznavia, who in his writings forged the concept of modern Vysenian and Graznian patriotism. He lived to see his idea of common statehood realised, although his dream of full equality for both peoples remained mostly on paper.
 War Crimes Documentation, 1941–45
 Some Vysenians saw the German occupation during the Second World War as a chance for payback for the perceived injustices and discrimination against the Vysenian minority. This collection of folders contains previously unpublished documentation of war crimes committed by Vysenian nationalists who collaborated with the Nazis.
 This collection of folders contains previously unpublished documentation of war crimes committed by Vysenian nationalists collaborating with the Nazis.
@@ -9958,7 +9958,7 @@ Spis ludności Pogoren
 [INFORMACJA]</n>Lokacja scavengowa</n></n>[STATUS LOKACJI = GRYWALNA]
 [INFORMACJA]</n>Lokacja scavengowa</n></n>[STATUS LOKACJI = GRYWALNA]</n>[TODO = BANDYCI]
 The stranger's getting better.
-His fever abated... thank God.
+His fever abated… thank God.
 The stranger seems a bit better.
 He's getting worse!
 His fever rises!
@@ -9979,7 +9979,7 @@ Milena says your family's collection will be safer in the Museum, where she will
 The Museum
 I hope you understand... In our situation, perhaps it would be wise to move the collection to the museum.
 We've to protect them for all cost.
-Damn, a part of the shed has collapsed... I must dig the artworks out!
+Damn, a part of the shed has collapsed… I must dig the artworks out!
 Phew, I did it!
 I have to dig out this part of my collection.
 I should secure the buried part of my collection as soon as possible.
@@ -9989,11 +9989,11 @@ The stranger feels better now!
 The stranger's condition is serious but stable.
 The stranger's condition is really bad.
 The stranger is dying. I have to do something!
-I failed... He's dead.
+I failed… He's dead.
 He froze to death.
-I let him down... he's gone.
+I let him down… he's gone.
 The fuel you brought me should last for a few days, but I need some food to recover.
-I'm freezing...
+I'm freezing…
 [CUTSCENA]</n>Slychac narastajace swisty zblizajacych sie pociskow mozdzierzowych. W pierwszej chwili nie robia wrazenia, ale moment pozniej jest ich tak duzo i tak glosne ze wszyscy wiedza ze nastapi bezposrednie uderzenie. Anja zaczyna uciekac z powrotem do domu. </n>[CUTSCENA2]</n>Dostrzega swoj dom stojacy caly w plomieniach. Przerazona co z Ruben dostrzega go stojacego w drzwiach budynku gospodarczego przywolujacego ja do siebie. Oboje chowaja sie w obawie przed kolejnymi bombami w piwnicy budynku.
 What do you want?
 I'm looking for Seada, she told me to come here
@@ -10007,7 +10007,7 @@ Ok I'll, thank you
 Dokumentacja archeologiczna AZP 44-35/86
 Jedna z kopii dokumentacji badań archeologicznych na Stanowisku 6 (AZP 44-35/86) w Grazni.
 Jedna z kopii dokumentacji badań archeologicznych na Stanowisku 6 (AZP 44-35/86) w Grazni.
-But this is my home... I would have to leave everything behind.
+But this is my home… I would have to leave everything behind.
 Only a part, but I don't know if I can keep the rest safe here anymore.
 If you have some vegetables to share, I'd be very grateful.
 And my collection has been damaged during a bombing.
@@ -10021,13 +10021,13 @@ Are you safe here all by yourself? My offer still stands.
 We have to do all we can. I'm sure your Grandpa would agree with me.
 Take as much as you can and join me in the museum.
 I suppose my Grandpa would want me to be safe.
-And what could I do about it? I'm just one person struggling to survive...
-I know you're collecting things in your shed, and I know I shouldn't ask, but...
+And what could I do about it? I'm just one person struggling to survive…
+I know you're collecting things in your shed, and I know I shouldn't ask, but…
 They're helping our community, and used to help me from time to time
-I did but... I don't think I'm ready.
+I did but… I don't think I'm ready.
 I'm glad you're feeling better. Is there anything else you need?
 Please, take some things from my desk. I know it's not much but that's all I have left.
-That man I was taking care of... I couldn't help him...
+That man I was taking care of… I couldn't help him…
 Inventory of the Collection, 1962
 Documentation of the physical inventory of Pogoren Museum, conducted in 1962.
 Dokumentacja z inwentaryzacji dokonanej w muzeum w 1962 roku. Zabiera spis zbiorów Muzeum w Pogoren z tego okresu.
@@ -10036,17 +10036,17 @@ Just remember – artworks you keep in your shed might be more precious than lif
 I'll be waiting for you in the museum. Try to get there when you think you're ready.
 Only a part, but I don't know if I can keep the rest safe here.
 My collection has been damaged during a bombing.
-Good to see you again! We're alive but...
+Good to see you again! We're alive but…
 Thank you. I'll think about it.
 He's not well yet, and he might not survive the way there.
-But this is my home... And what about the man I'm taking care of?
+But this is my home… And what about the man I'm taking care of?
 Listen, don't blame yourself for everything. Join me at the museum.
-Oh no... You had so much on your mind...
+Oh no… You had so much on your mind…
 Hello, Anja. Are you OK?
 I'll be waiting for you in the museum. Try to get there when you think you're ready.
-Please consider it. In the meantime, I brought you some meds and food...
+Please consider it. In the meantime, I brought you some meds and food…
 You'd be safer there and you could help me in securing the exhibits!
-Good to see you again. I'm alive, but...
+Good to see you again. I'm alive, but…
 Our heritage is priceless. Never forget that.
 Remember that artworks you keep in your shed might be more precious than life.
 Collection of Postcards, mid 20th century
@@ -10055,55 +10055,55 @@ Klaster z pocztówkami z połowy XX wieku.
 I'd like to help you save it. Let me know if you need anything.
 Oh, I'm sure. That's what brings me here.
 Do you still have some of those pieces?
-Well... I am, but... who are you?
+Well… I am, but… who are you?
 Just please try to secure your family collection.
 OK, I'll be passing by soon, I'll see what I can do.
 Sounds like something my Grandpa would approve of.
 What brings you here?
-Forgive me, but I don't know you...
-I'm trying to keep it safe it but that's not easy these days...
-Our family collection... Yes, I inherited it after my Grandpa passed away
+Forgive me, but I don't know you…
+I'm trying to keep it safe it but that's not easy these days…
+Our family collection… Yes, I inherited it after my Grandpa passed away
 I guess you really had to be friends.
 Oh no! You lost everything?
-Anything would help me at this point... I was taking care of a wounded man, but he passed away.
+Anything would help me at this point… I was taking care of a wounded man, but he passed away.
 I'll do my best, Milena.
-I couldn't save him, not without food or medicine...
+I couldn't save him, not without food or medicine…
 I'll do my best, Milena.
-Actually... I'm taking care of a wounded man. He badly needs medicine and food.
+Actually… I'm taking care of a wounded man. He badly needs medicine and food.
 I brought you some meds and food for him.
 You'd be safer there and you could help me secure the exhibits!
 Listen – join me at the museum.
 Book Collection 1
 Part of the museum library.
 Fragment zbiorów muzealnej biblioteki.
-Killing my people, destroying our legacy...
-First, I tried to reach our Institute... but the army was already there.
+Killing my people, destroying our legacy…
+First, I tried to reach our Institute… but the army was already there.
 A soldier saw me and started shooting.
-Didn't have a clue where I was... but I knew death was coming.
+Didn't have a clue where I was… but I knew death was coming.
 I wandered through a forest.
-I ran... bleeding and freezing in the snowstorm.
+I ran… bleeding and freezing in the snowstorm.
 I hope you get better soon. How did you end up here?
 How are you today?
 Sure thing. You better get some rest then.
 Was he an artist?
 Sorry to hear that.
 You were here alone? Even before the war?
-I'm used to being on my own... but it's actually nice to have someone around for a change.
+I'm used to being on my own… but it's actually nice to have someone around for a change.
 My parents died when I was a little child. Grandpa raised me.
 I hope you'll show me some of it when I get better.
 But he passed shortly before the war.
 Getting better, Ruben?
-I'm used to being on my own... but it's actually nice to have someone around for a change.
+I'm used to being on my own… but it's actually nice to have someone around for a change.
 A local one. He sculpted and painted, mostly traditional motives.
 He was a very sensitive man with an artistic spirit.
 At least he didn't have to see everything going to hell.
 You must be Anja, am I right?
-Next thing I remember was lying on this bed with you taking care of me. Thank you...
+Next thing I remember was lying on this bed with you taking care of me. Thank you…
 He left me with a great collection. It brings me many memories.
 Last time we met you were just a little child.
 I was a friend of your family back in the day.
-Oh, sorry... you might not remember me. My name is Milena.
-Oh yes... and I know that he assembled a nice collection of our local art.
+Oh, sorry… you might not remember me. My name is Milena.
+Oh yes… and I know that he assembled a nice collection of our local art.
 I'm gathering pieces of our culture scattered across the shelled city.
 I'm in charge of the Pogoren Museum. I'm trying to save our heritage for the future.
 It's fine, why do you ask?
@@ -10117,7 +10117,7 @@ Maybe it's not a bad idea...
 Okey, I'll come by the next few days.
 I can handle it..
 I brought the meds!
-Thank you... but it's too late. The stranger has died. Maybe they'll at least help me to survive.
+Thank you… but it's too late. The stranger has died. Maybe they'll at least help me to survive.
 Your familly stuff is really valuable for our local community!
 Maybe you changed your mind?
 I want to ask you again about your familly collection.
@@ -10148,14 +10148,14 @@ A Swiss watch that belonged to Anja's father. It was a reward that he received f
 A Swiss watch which belonged to Anja's father.
 Stranger's backpack
 That's fine, I just wanted to help.
-You're such a kind person. That's so rare these days...
+You're such a kind person. That's so rare these days…
 Tito? Are you home?
 I've already burnt everything I had.
 I'll see what I can do.
 Please... if you don't find anything...
-... maybe you could spare some things from this collection? It's a matter of life and death at this point.
+… maybe you could spare some things from this collection? It's a matter of life and death at this point.
 Tito won't survive without my help.
-Maybe it's time to sacrifice something from my collection...
+Maybe it's time to sacrifice something from my collection…
 Tito needs fuel to heat his house.
 The stranger needs some food.
 The stranger is starving!
@@ -10251,7 +10251,7 @@ Milena said she's fine, and I trust her.
 No time to waste – let's secure the artefacts!
 New company is always good.
 It's good to see a new, friendly face.
-I did... You live in the museum nearby, right?
+I did… You live in the museum nearby, right?
 I'm glad I could help. Do you need anything else?
 Do you know where to find those people?
 To be honest, that sounds unbelievable...
@@ -10309,7 +10309,7 @@ I'm counting on you to protect the collection and secure the pieces which are in
 I'll be back in a while... with a truck, hopefully.
 May it come true. Good luck.
 See you.
-Help us, please...
+Help us, please…
 Part of the orphanage was bombed and I need your help to make it liveable again. The children are freezing in the open right now, can you come with me and help us?
 Thank you for opening the door!
 Thank you... You might just be saving those kids!
@@ -10337,52 +10337,52 @@ Where is my brother?
 Mom... dad...
 Sketches from local artists
 Several dozen of sketches from less known Pogoren graphic artists, both professionals and amateurs, donated (or not collected) by their authors after the "Voices of the Neighbourhood" exhibition several years ago.
-A collection of sketches drawn by local artists.
+Zbiór szkiców lokalnych artystów.
 Milena offered us shelter at the Museum. </n>We could move there with some of our things and help her to save our heritage. </n>But with Ruben still in recovery, moving is very risky.
 Pogoren Museum
 Leaving home
 Hi! I'm glad to see you alive and well!
-Are you sure you want to move now? You won't be able to come back.
-I should make sure that Ruben is</n> well enough to survive the travel </n>through the blizzard and shelling.
-My backpack... do you have it?
-But I still see them...
+Are you sure you want to move now? You won't be able to come back. You will take your family collection to the Museum.
+I should make sure that Ruben is</n>well enough to survive the travel </n>through the blizzard and shelling.
+My backpack… do you have it?
+But I still see them…
 Can you hear me?
-I couldn't help them... My people... Friends... All dead...
+I couldn't help them… My people… Friends… All dead…
 Hello, Anja. Did you consider my offer?
 Hello, Anja. Are you OK?
-Please... can you keep it safe?
-I saved it from the fire... Took as much as I could carry.
-That's all I saved. Old manuscripts, my tallit...
+Please… can you keep it safe?
+I saved it from the fire… Took as much as I could carry.
+That's all I saved. Old manuscripts, my tallit…
 Yes, it's safe.
 Try not to think about it now, you need to rest.
 Are you feeling any better?
 City Documents
 Old records of the Pogoren City Hall.
 Stara dokumentacja z Pogoreńskiego urzędu miejskiego
-But among all this destruction, there's still something completely intact...
-I've been there... Still have the image of all the bodies in my head.
+But among all this destruction, there's still something completely intact…
+I've been there… Still have the image of all the bodies in my head.
 You got lost?
-That was the least I could do... Have some rest now, Ruben.
-I think so... But how are you dealing with all this?
+That was the least I could do… Have some rest now, Ruben.
+I think so… But how are you dealing with all this?
 I was wondering what it was but didn't want to go through your things.
 You risked your life to do it.
 Sure, I'll hide it. Now try to sleep.
-My wound hurts... badly. When I was sneaking out from the synagogue...
+My wound hurts… badly. When I was sneaking out from the synagogue…
 Who? The army?
 What happened? Who are you?
 It's over, you're safe now. You need to rest.
-I think so... I'm alive, thanks to you.
-Started shooting... I hid in the back... Tried to save what I could...
-They... came to the synagogue... with torches.
-Another body and even more priceless artworks smashed to pieces. What a tragedy...
-It looks like there's something that survived this attack...
+I think so… I'm alive, thanks to you.
+Started shooting… I hid in the back… Tried to save what I could…
+They… came to the synagogue… with torches.
+Another body and even more priceless artworks smashed to pieces. What a tragedy…
+It looks like there's something that survived this attack…
 More and more dead bodies lie among the total destruction. Many religious objects were intentionally desecrated.
 Change Shelter
 A damaged heater! Maybe there are some useful parts inside?
 This is something special.
 There's an impressive collection of Pogoren postcards and some classic vinyl records on the desk.</n>Tito put a lot of effort in to keep all this stuff in good condition.
-Dear God...
-It's terrible...
+Dear God…
+It's terrible…
 I just wanted to say that it's good to see you safe and sound.
 We lost a friend in the last bombardment.
 I'm sorry...
@@ -10433,9 +10433,9 @@ CarWorkshopBandit_03
 Korespondencja
 Zbiory starej korespondencji
 Zbiory starej korespondencji
-My name... is Ruben. They killed us... All of us.
-You... Thank you... for... helping me.
-He's getting worse... His forehead is burning hot with fever and he's shivering all the time.
+My name… is Ruben. They killed us… All of us.
+You… Thank you… for… helping me.
+He's getting worse… His forehead is burning hot with fever and he's shivering all the time.
 The stranger doesn't look good – he's unconscious and has a high fever. He needs medicine badly.
 It's this stranger's backpack. I'm not going to paw through his stuff, but I noticed some religious items inside: a prayer shawl, a decorated candle, and something else. I think these might be of great value to him.
 Colonel! Someone from the museum wants to see you.
@@ -10543,7 +10543,7 @@ Thank you... I'll come soon with meds.
 I understand... but maybe You will visit us at the museum?
 A man collapsed on Anja's doorstep, dying from gunshot wounds and the cold. He is unconscious at the moment, but from time to time Anja can hear single words escaping his mouth. Whatever he dreams of must be truly horrifying...
 Even before this war started, the life of an orphan was not easy. My parents died when I was just a little child, so I was raised by my grandpa. He was a great mentor, a local Vyseni artist who taught me everything I know about life and art. Since he passed away, I had to learn how to live and survive on my own. He left me with a small family collection that brings back memories of better days and gives me a ray of hope for tomorrow.
-I don't know how I got to this house, but I can remember all too vividly everything that happened before... The massacre in the synagogue, my people being slaughtered by the army, the fire, gunshots, and screams. All we ever did was give a helping hand to those in need and support our community. I can only wonder why they came after us like that.
+I don't know how I got to this house, but I can remember all too vividly everything that happened before… The massacre in the synagogue, my people being slaughtered by the army, the fire, gunshots, and screams. All we ever did was give a helping hand to those in need and support our community. I can only wonder why they came after us like that.
 Hello! I'm glad to see you're better.
 I need to talk to Anja. Could you get her, please?
 Please... Help me!
@@ -10551,17 +10551,17 @@ My God! What happened to you?
 Let's get you inside...
 Somebody... Help!
 So many memories...
-I had a guest today. Her name was Milena, she's in charge of the Pogoren Museum. She seemed nice and friendly, and told me she used to be a friend of our family back in the day. She risks a lot searching the city under fire for art that's important for our culture. I'm impressed. I don't know if I could do so much to save our heritage in her place...
+I had a guest today. Her name was Milena, she's in charge of the Pogoren Museum. She seemed nice and friendly, and told me she used to be a friend of our family back in the day. She risks a lot searching the city under fire for art that's important for our culture. I'm impressed. I don't know if I could do so much to save our heritage in her place…
 Milena visited again. She wants me to join her in the Museum and help her secure the exhibits. It would be great to help, and I might be safer there, but I'm not sure if I'm ready to leave everything behind.
 Milena was here again to remind me of her proposal. She was very firm this time; it seems to me that she cares about the exhibits in "her" Museum more than anything. My situation here is getting more and more difficult. Moving with her might be my only hope.
-I went to ask my neighbour Tito if he could spare some supplies. But he's actually in a worse way than me, freezing and starving in his small, cold house. He asked me for fuel to heat his place, but I don't have enough for my own needs... unless I start burning some old things from the collection.
-There was a massacre in the Samuel Institute. I saw many dead bodies there, the priceless artworks smashed to pieces... These people were no threat to anyone, just a helpful community trying to find their way through this horror. Why did this happen to them?
+I went to ask my neighbour Tito if he could spare some supplies. But he's actually in a worse way than me, freezing and starving in his small, cold house. He asked me for fuel to heat his place, but I don't have enough for my own needs… unless I start burning some old things from the collection.
+There was a massacre in the Samuel Institute. I saw many dead bodies there, the priceless artworks smashed to pieces… These people were no threat to anyone, just a helpful community trying to find their way through this horror. Why did this happen to them?
 The wounded man woke up today for a moment! His name is Ruben and he survived the pogrom in the synagogue. He's still very weak so I didn't learn much but once he gets better, I hope he can tell me more about what happened.
 Ruben talked to me again about his escape from the synagogue and the massacre in the Samuel Institute. These attacks must have been coordinated; a cleansing targeted at their community. He managed to save some things and sneak them out in his backpack – they must be really important for him. I'd better secure them with the rest of my collection.
 I was looking for supplies in the destroyed supermarket when I met this little kid. He told me about a man who's taking care of war orphans across Pogoren. I think I should check if I could be of any help to them.
-That woman Milena came to visit us again. She wants Anja to join her in the Museum. It's Anja's call, but she's hesitating, saying she's not ready. I think she's actually worried about whether I would survive the move there...
+That woman Milena came to visit us again. She wants Anja to join her in the Museum. It's Anja's call, but she's hesitating, saying she's not ready. I think she's actually worried about whether I would survive the move there…
 Milena came by once again. She insists that we move to the Museum and help her protect Pogoren's heritage. It's up to Anja to decide but I'm afraid this might be our best chance to survive.
-I woke up in a small house... a girl who lives in it is taking care of me. I don't remember how I ended up here but I'm really grateful to her for all she's doing. I must get better to thank her properly.
+I woke up in a small house… a girl who lives in it is taking care of me. I don't remember how I ended up here but I'm really grateful to her for all she's doing. I must get better to thank her properly.
 Hey kid, what are you doing all alone here?
 I live in an orphanage nearby. Some kids there are falling ill as there's not enough food and meds.
 An orphanage? Is there someone taking care of you kids?
@@ -10579,14 +10579,14 @@ A wounded stranger collapsed on my doorstep. It was already hard for me to survi
 The blast damaged the shed, the roof is destroyed, and the walls partially collapsed.
 Tito
 As the collection grew, Anja's grandpa expanded his workshop to accommodate more works of art.
-This girl... she's doing so much for me.
+This girl… she's doing so much for me.
 This bombardment could've killed us.
-Memories of the massacre keep coming back to me...
-My friends... my people... all dead.
+Memories of the massacre keep coming back to me…
+My friends… my people… all dead.
 Our house got hit during the shelling. At least nobody got hurt.
-I failed to save the man... He passed away; his life slowly eaten away by the illness spreading from his infected wounds. I wish there was more I could have done but in these cold dark days I can barely survive on my own...
-My neighbour didn't make it... He froze to death. If only I could have gotten to him faster with some fuel, maybe he would still be alive. I have to make decisions, the only other choice is to die, but living with their consequences is overwhelming.
-It seems that Ruben is feeling better. He went through so much... I'm glad I could put a roof over his head and help him heal, but our situation is still very difficult.
+I failed to save the man… He passed away; his life slowly eaten away by the illness spreading from his infected wounds. I wish there was more I could have done but in these cold dark days I can barely survive on my own…
+My neighbour didn't make it… He froze to death. If only I could have gotten to him faster with some fuel, maybe he would still be alive. I have to make decisions, the only other choice is to die, but living with their consequences is overwhelming.
+It seems that Ruben is feeling better. He went through so much… I'm glad I could put a roof over his head and help him heal, but our situation is still very difficult.
 Damn! I'm shot!
 Don't run from me, you bastard!
 What are you doing?!
@@ -10596,48 +10596,48 @@ Finally, I can heat my place.
 Oh no, that thief is back!
 Thank God that thief is running away.
 Please, stop! That's all I have!
-Oh no! My food...
-The last scraps of food are gone... I'll starve!
+Oh no! My food…
+The last scraps of food are gone… I'll starve!
 I can't go on without food.
 Thank God I have some food stashed to keep me going.
 I'm warm and I have something to eat. There's still hope.
-There's not much left in the fridge... but I have to eat something.
+There's not much left in the fridge… but I have to eat something.
 It's almost empty. I'll begin to starve soon.
-It's finally warm in here, but without food, I'm screwed anyway...
-Oh no! I've been robbed...
+It's finally warm in here, but without food, I'm screwed anyway…
+Oh no! I've been robbed…
 Why would you steal from me?! Go away!
-Why are you doing this? Please, spare me...
-Go ahead, kill me... I'll be dead soon anyway.
+Why are you doing this? Please, spare me…
+Go ahead, kill me… I'll be dead soon anyway.
 I have some things hidden in the cabinet. Please, take them.
 You saved me in those dark days. I can't thank you enough.
 Finally, I'm warm. Thank you so much!
-An old mattress, some clothing, scattered personal things, odds and ends... Someone used to live here.
+An old mattress, some clothing, scattered personal things, odds and ends… Someone used to live here.
 There are some papers and drawings among the scattered things, including a plan of the subway tunnels with handwritten notes.
 These things look like they were scattered in a hurry. It seems that whoever left them didn't have much time to pack.
-A plan of the tunnels? That's interesting...
+A plan of the tunnels? That's interesting…
 I feel much better now.
 With food and fire I might actually survive this war.
 I'm so grateful for everything.
 At least I can warm this place.
-So hungry... I need more food to survive.
+So hungry… I need more food to survive.
 I'm better, but I won't make it without food.
-I'm sick... I don't think I'll survive this.
-It's freezing... I can't feel my hands.
-I can't do it on my own...
+I'm sick… I don't think I'll survive this.
+It's freezing… I can't feel my hands.
+I can't do it on my own…
 You'll pay for killing our friend!
 That's your last chance to leave! Get the hell out!
 Damn! Where did {mr|he}{fr|she} go?
 What the fuck?! Get the hell out of here!
 Stop playing around, idiots! Someone broke in here. Help me find him!
 We have an intruder inside! Hurry up and help me find him!
-Fucking poker... I lost and now have to patrol this goddamn house!
+Fucking poker… I lost and now have to patrol this goddamn house!
 I knew it! I went for a snack and felt we're not alone.
 Relax, man. If you're right, we'll take care of him.
 I lost again?! This deck must be marked or something!
-Damn... I need a snack. I'll be right back
+Damn… I need a snack. I'll be right back
 Do I smell perfume?
 My mind is playing tricks on me. I've been too long without a woman.
-Weird... I feel like there's someone here.
+Weird… I feel like there's someone here.
 Damn, I hope this place isn't haunted or something
 That damn glutton must have sneaked in here! Bastard ate our best food!
 Ah, that hit the spot for me.
@@ -10649,15 +10649,15 @@ Show yourself now and I might let you go!
 You're a dead man already!
 Hey! I remember having at least 20 more chips when I left!
 Hah, you wish! You lost them trying to complete your gutshot last turn.
-Whatever... I'm not going to argue with a dabbler.
+Whatever… I'm not going to argue with a dabbler.
 How about we switch to Omaha Hi-Lo?!
-Naah, you wish... I wanna play the other one you showed me yesterday.
+Naah, you wish… I wanna play the other one you showed me yesterday.
 Without the common cards, where you have to get the smallest cards of different colours!
 You mean Badugi. Sure, I can beat your ass in that one too!
-In your dreams... Now I'm the dealer every turn!
+In your dreams… Now I'm the dealer every turn!
 I don't trust your sneaky hands and your shuffling!
 Fine by me. I'll win anyway
-It's cold down there...
+It's cold down there…
 Oh no! Where's my Aurochs?
 He needs to eat something!
 I think he's not hungry anymore.
@@ -10667,12 +10667,12 @@ Thanks to Anja, I'm getting better.
 I feel better with every passing day.
 I would be dead now if it wasn't for Anja.
 I can't believe I'm doing this.
-I had to burn Grandpa's treasures... I wish there was another way.
-You... Thank you... for... helping me.
-My name... is Ruben. They killed us... All of us.
-They... came to the synagogue... with torches.
-Started shooting... I hid in the back... Tried to save what I could...
-I couldn't help them... My people... Friends... All dead...
+I had to burn Grandpa's treasures… I wish there was another way.
+You… Thank you… for… helping me.
+My name… is Ruben. They killed us… All of us.
+They… came to the synagogue… with torches.
+Started shooting… I hid in the back… Tried to save what I could…
+I couldn't help them… My people… Friends… All dead…
 Can you hear me?
 What happened? Who are you?
 Who? The army?
@@ -10685,7 +10685,7 @@ The stranger is dead
 Anja couldn't help him. She found him dead this morning.
 The shed roof collapsed
 The shed roof collapsed during the bombing. We need to secure part of the collection.
-My house was destroyed in the last shelling...
+My house was destroyed in the last shelling…
 You move around the city a lot. What did you see?
 The army lobbed plenty of mortar bombs from the hills.
 Mostly at the centre, but some landed in the suburbs.
@@ -10694,17 +10694,17 @@ Bloody murderers! They don't care who they kill!
 They want to break us, scare us into submission.
 To force the Vyseni into surrendering the capital and accepting Grazni rule.
 Do you think it's possible to destroy the identity of the whole people?
-I don't know... I'm just trying to live, day by day.
+I don't know… I'm just trying to live, day by day.
 How is the situation in the city?
-This harsh winter is driving people to the edge...
-Well... it seems to be harder than ever.
+This harsh winter is driving people to the edge…
+Well… it seems to be harder than ever.
 The army attacks are more frequent and brutal every day.
 You mean the bombardments?
 Not just them, the soldiers have started to enter the city now.
 They're carrying out cleansing raids, targeting churches and other important places.
-Last night, the city hall fell. It was turned into ashes...
-That's terrible... How long can our people carry on like this?
-Honestly? I don't know... it's really bad. People are freezing and starving.
+Last night, the city hall fell. It was turned into ashes…
+That's terrible… How long can our people carry on like this?
+Honestly? I don't know… it's really bad. People are freezing and starving.
 Soon I won't have anything to trade – or people to trade with.
 Backpack filled with some ceremonial items.
 Items saved by Ruben from a synagogue.
@@ -10722,10 +10722,10 @@ This damned bombing seems much more intense today.
 I think I can hear more explosions today.
 Damn, I need to heat this place!
 It's too cold. I need to get the heater going.
-I'm freezing... It's hard to work in this cold.
-I'm freezing... It's too cold in here.
+I'm freezing… It's hard to work in this cold.
+I'm freezing… It's too cold in here.
 I'm too cold to do it.
-It's so cold... I can't do it.
+It's so cold… I can't do it.
 A limewood sculpture of an Aurochs - legendary Vysenian symbol.
 Steal|XPadY|
 Return|XPadY|
@@ -10733,7 +10733,7 @@ Anja! I'm so glad you changed your mind.
 I know it must've been hard to leave your home behind.
 Trust me, you're much safer here! And you can do a lot of good for our city.
 It was even harder than moving through Pogoren with my collection.
-I see you brought some of your things with you...
+I see you brought some of your things with you…
 I still have a lot of doubts about my decision.
 I took as much as I could fit in the cart.
 But having to push it through the snow didn't make it any easier.
@@ -10744,24 +10744,24 @@ I know it must've been hard to leave your home behind.
 It was even harder than moving through Pogoren with my collection.
 I still have a lot of doubts about my decision.
 Trust me, you're much safer here! And you can do a lot of good for our city.
-I see you brought some of your things with you...
+I see you brought some of your things with you…
 We took as much as we could fit in the cart.
 But having to push it through the snow didn't make it any easier.
 What counts is that you both made it and we can start working.
 Leave it here for now and come with me
 Anja! I'm so glad you're here!
-What happened to your friend? Is he...
-He's gone... He didn't make it.
-He was too weak... I shouldn't have talked him into moving here.
+What happened to your friend? Is he…
+He's gone… He didn't make it.
+He was too weak… I shouldn't have talked him into moving here.
 I'm sure you did everything in your power to keep him safe.
 You can't let such thoughts keep you down.
 I took as much as I could from my house.
-Maybe it'll be of some use...
+Maybe it'll be of some use…
 That's great, Anja. We'll take care of it.
 Now let's go, I'll show you around.
 I'm going to show you what we're doing here.
 Sometimes it's still not enough. Don't be too harsh on yourself.
-But maybe if I'd kept him home, he would've recovered...
+But maybe if I'd kept him home, he would've recovered…
 Think about what you can do for the people still out there.
 Come, I'll show you what we're dealing with.
 This is our Main Warehouse. It was used to store old documents and archives.
@@ -10773,15 +10773,15 @@ Now come, there's so much more I need to show you.
 What they're doing here despite the war is truly amazing.
 Let's go to my office. There's a lot more you need to see.
 This is my office. Feel free to enter whenever you need.
-It's where you can usually find me. If I'm around, of course...
+It's where you can usually find me. If I'm around, of course…
 You can also check our current list of tasks that need handling here.
-First, I have to show you the most important space in the whole building...
+First, I have to show you the most important space in the whole building…
 We have a lot of work to do. Let's go upstairs.
 These offices had to be full of people before the war.
 This wing was hit really bad during the bombardment.
 We must reinforce the structure, but we lack people and materials.
-It doesn't look good... Do you think it will hold?
-I can only imagine how these hallways must've looked filled with visitors...
+It doesn't look good… Do you think it will hold?
+I can only imagine how these hallways must've looked filled with visitors…
 In the end, the museum is and always was for the people. I'll show you our main wing.
 Not for long. We have to reinforce the pillars to buy us more time.
 We have to collect and secure all the exhibits and documents in these rooms.
@@ -10789,22 +10789,22 @@ What do you do with those items later?
 We keep them in the Main Warehouse until we can find a better solution
 Now come, there's one more thing I need to show you.
 I'll leave you here for now. If you have any questions, you can usually find me in the office.
-This part of the museum is our exhibition space. Or what's left of it...
+This part of the museum is our exhibition space. Or what's left of it…
 There are still some items left on display, the others are packed in boxes in the back.
-I'm sure you know the painting we're looking at right now...
-Yes... This famous painting and your family's collection are important in the same way.
-They make us who we are. Please remember that...
+I'm sure you know the painting we're looking at right now…
+Yes… This famous painting and your family's collection are important in the same way.
+They make us who we are. Please remember that…
 Of course, it's The Battle of Leech Swamp – a commemoration of a great victory.
 All Vyseni know the story and this painting.
-Yes... I brought you here to show you the importance of what we're doing.
+Yes… I brought you here to show you the importance of what we're doing.
 The value of this painting is extraordinary. Many people would like to put their hands on it.
 But for our people it's priceless! Like many other exhibits in the museum.
-Our heritage...
-This painting reminds me of something...
-So, Anja... are you enjoying our little trip?
+Our heritage…
+This painting reminds me of something…
+So, Anja… are you enjoying our little trip?
 Of course! This museum is huge!
-I think I've already been here long ago...
-This whole place is so big...
+I think I've already been here long ago…
+This whole place is so big…
 Mortar shells fell from the sky to terrorise the besieged city as Anja made her way to the Museum of Pogoren. Weaving around bomb craters and ducking into the cover of shattered houses when a fresh barrage whistled overhead, she managed to safely move her collection and a handful of necessities.</n></n>Leaving her home was not easy, but she felt it was her best chance for survival. In her new shelter, new challenges awaited.</n></n>Milena, who talked her into moving in, was doing all she could to secure the artworks collected in the museum. She lived on the premises with Zoran, her loyal friend and former janitor who does his best to help her – but she could definitely use another pair of hands.
 Anja has made a tough call to try reaching the Museum of Pogoren. She felt it was their best chance for survival... but Ruben was not yet ready for the difficult journey. Fever that has been consuming him for days took its final toll and Ruben passed away on their way to the Museum.</n></n>Anja herself barely made it alive. Haunted by guilt over Ruben's death, she has to face new responsibilities and challenges in her new shelter.</n></n>Milena, who talked her into moving in, is doing all she can to secure the artworks collected in the museum. She lives on the premises with Zoran, her loyal friend and former janitor, who does his best to help her - but she could definitely use another pair of hands.
 Mortar shells fell from the sky terrorising the besieged city as Anja and Ruben made their way to the Museum of Pogoren. Ducking into the cover of shattered houses when a fresh barrage whistled overhead, they weaved around bomb craters as they managed to safely move Anja's collection and a handful of necessities.</n></n>Leaving their home was not easy, but Anja felt it was their best chance for survival. In this new shelter, new challenges awaited.</n></n>Milena, who talked her into moving in, was doing all she could to secure the artworks collected in the museum. She lived on the premises with Zoran, her loyal friend and former janitor who does his best to help her – but she could definitely use another pair of hands.
@@ -10821,35 +10821,35 @@ Oct
 Nov
 Dec
 It's like ten of our houses!
-Ha! Indeed, kid, but tell me...
+Ha! Indeed, kid, but tell me…
 What do you think about this painting?
 I love it! It has knights and horses!
 But do you know who these knights are?
-Um... Are they Vyseni?
+Um… Are they Vyseni?
 Oh, yes! Our proud cavalry in the famous Battle of Leech Swamp.
 It's one of the glorious moments from our past.
 A time when we were still a free and proud nation.
-You know, Grandpa... I think...
+You know, Grandpa… I think…
 When I grow up, I want to be a knight!
 Hah! You don't want to be an artist anymore?
-Well... As a knight I could fight for Vysena with my sword!
-Oh sure, my child. But you see...
+Well… As a knight I could fight for Vysena with my sword!
+Oh sure, my child. But you see…
 You don't always need a sword to fight.
 You can win with nothing more than a brush in your hand.
 I'll leave you for now. If you have any questions, you can usually find me in the office.
 The Battle of Leech Swamp'
-A famous Miroslav Rotejko painting from 1869. It depicts the great victory of the Vysenian army over Graznavii raiders in the Battle of Leech Swamp. Created over two centuries later, the painting become a symbol of freedom for the Vysenian community, which had lost its independence at that time. It is Rotejko's magnum opus and a work of art well known all over the world.
+A famous Miroslav Rotejko painting from 1869. It depicts the great victory of the Vysenian army over Graznavii raiders in the Battle of Leech Swamp. Created over two decades later, the painting become a symbol of freedom for the Vysenian community, which had lost its independence at that time. It is Rotejko's magnum opus and a work of art well known all over the world.
 A famous Miroslav Rotejko painting and a symbol of freedom for the Vysenian community. Rotejko's 'opus magnum' and a work of art well-known all over the world.
 Hello again, Anja. How do you feel about your new home?
 I'm still adjusting. I guess I need more time to get familiar with everything.
 Sure thing. You can talk to Zoran if you haven't had the chance yet.
 He can tell you more about living here and our mission.
-Thanks. You know... when I was upstairs,
+Thanks. You know… when I was upstairs,
 I realized that I'd been here before.
 A long time ago, with my Grandpa.
 Oh, yes. He used to visit us from time to time.
-He was a kind man... Such a delight to talk to – a font of tales from all over Vysena.
-I miss him so much. Right now more than ever...
+He was a kind man… Such a delight to talk to – a font of tales from all over Vysena.
+I miss him so much. Right now more than ever…
 Of course. Everyone who knew him does, but you know what?
 I'm sure he would be proud of you and the decisions you've made.
 Thank you. I hope you're right.
@@ -10862,8 +10862,8 @@ We're sorting exhibits and documents. Securing whatever we can.
 It's just two of you doing all this work?
 Just the two of us. And Milena is often out.
 She wanders all over Pogoren, trying to save as many artworks as possible.
-That sounds incredibly risky...
-Oh, you bet it is! But... Well, that's Milena.
+That sounds incredibly risky…
+Oh, you bet it is! But… Well, that's Milena.
 She'd give anything to protect our heritage.
 Even her life?
 That's what she's like. You'll see when you get to know her better.
@@ -10872,8 +10872,8 @@ But she's a really good person, and she's trying to do the right thing.
 Don't worry, Anja. I'll be fine.
 How are you feeling? I was afraid this trip might be bad for your health.
 How about you? I hope you don't regret your decision.
-Well... It's certainly overwhelming at the moment.
-Leaving home, moving in here... and all the challenges still ahead.
+Well… It's certainly overwhelming at the moment.
+Leaving home, moving in here… and all the challenges still ahead.
 I think I need more time.
 Get some rest Anja. You deserve it.
 I feel well enough to help you with your work.
@@ -10934,39 +10934,39 @@ Evacuation Name
 Preparing for evacuation
 LeechSwamp Name
 Securing "The Battle of Leech Swamp"
-A Graznian soldier in our museum! I hoped this day would never come...
+A Graznian soldier in our museum! I hoped this day would never come…
 Yes, my name's Milena. What brings you here?
-Hello! I don't mean to bother you but... do you run this place?
-The word on the street is that you help with... keeping things hidden.
+Hello! I don't mean to bother you but… do you run this place?
+The word on the street is that you help with… keeping things hidden.
 I guess that depends what kind of things we're talking about.
 All I'm interested in is gathering artworks important for our culture.
 We must preserve them for future generations.
 Oh, that's great! Here, take these books.
-Wait... These are old and beautifully illustrated – and valuable.
+Wait… These are old and beautifully illustrated – and valuable.
 My Papa used to read these tales to me when I was young.
-My house has been raided twice already... The bandits didn't find them then, but I can't take the risk anymore.
+My house has been raided twice already… The bandits didn't find them then, but I can't take the risk anymore.
 If I survive this war, maybe I could take them back. But for now, please keep them safe.
 All right, don't worry. I will keep them safe for you. Take care.
 Thank you, dear! Thank you and God bless you!
 Those books are extremely rare. It's good that she brought them here.
-Hello... is Milena here?
+Hello… is Milena here?
 I haven't seen her for a few days now. Can I help you?
 I left my old books with her. She promised to hide them for me.
 I'm trying to flee the city by river today and I wanted to take my books with me.
-Well... We don't have them here anymore.
+Well… We don't have them here anymore.
 What? What do you mean?!
 Please, don't worry! They're in better hands now – we gave them to the kids at the orphanage.
 Those books can do wonders to help them forget about the war. At least for a while.
-How... how dare you! Those books were my ticket out of the city!
+How… how dare you! Those books were my ticket out of the city!
 That was my last resort! You promised to keep them safe!
 I didn't promise anything to you.
-But... but Milena did! I'll tell everyone...
+But… but Milena did! I'll tell everyone…
 I'll them that you're all just a bunch of white-collar thieves!
 Oh, yes. She brought us some old books to hide.
-I saw you talking with that woman today...
+I saw you talking with that woman today…
 Does that happen often? People bringing their stuff?
 Well, it used to, after the first bombs fell. People were trying to save what they could from the fires.
-It rarely happens now. I guess there's not much left to save...
+It rarely happens now. I guess there's not much left to save…
 I'm beginning to appreciate even more what you're doing here.
 We do what we can. And you're a part of the team now.
 Colonel Markov. I'm looking for the person who runs this place.
@@ -10995,13 +10995,13 @@ Everything has a price. This one is well worth paying.
 So what's your price, Colonel?
 The Battle of Leech Swamp.
 You must be joking. What would you do with the most precious Vysenian painting?
-You see, my troops are stationed on the road out of the city...
+You see, my troops are stationed on the road out of the city…
 I know people who'll pay a lot of money for it.
 As I said, there's always a choice – one painting to save all the rest.
 And what's stopping you from just taking it right now?
 My superiors want this place burnt to the ground. With all its contents.
 Yes, sir!
-I can't just take it, I'm being watched. But if we're clever about it... we could both benefit.
+I can't just take it, I'm being watched. But if we're clever about it… we could both benefit.
 I hope you bring good news.
 Think about it. I'll see you soon
 I'm going to beat your ass.
@@ -11011,8 +11011,8 @@ Where are all the things?
 I will burn your fucking museum to the ground! And I don't care what or who is left inside!
 There's nothing more you can d–
 I have to go now.
-What do you mean? You promised we'll be safe...
-Listen... The museum was hit again last night.
+What do you mean? You promised we'll be safe…
+Listen… The museum was hit again last night.
 It doesn't change our plans, we just need to speed them up.
 I know, and I will keep my promise!
 But we need to evacuate. This building won't last long.
@@ -11023,11 +11023,11 @@ We need a truck. I know somebody who owes me a favour.
 He could help with the truck, but first I have to find him.
 Are you leaving us? What are we going to do?
 Just keep preparing the exhibits for evacuation. And try to keep the museum from collapsing.
-I'll be back soon. Just... don't lose your faith in what we're doing. Please.
+I'll be back soon. Just… don't lose your faith in what we're doing. Please.
 I was wondering, do you run this place?
 No, Milena's in charge, but she's not here at the moment.
 Do you want to wait for her?
-Well... Listen, we're trading small talk here.
+Well… Listen, we're trading small talk here.
 But you might have something that's worth a lot to me.
 We could make a nice deal. Help each other...
 Our exhibits are not for sale.
@@ -11089,11 +11089,11 @@ He said he met someone kind at the supermarket.
 I live in the Museum nearby and thought I should check on you.
 How do you cope?
 Well, you know the older boy you met, Andreas?
-He used to help me a lot. Going out scavenging, gathering supplies, and–
+Nobody has it easy these days, but providing for all these kids...
 He used to? What happened?
 Anything to heat this place is essential right now.
 You said you could use help with something?
-You see, these kids have lived through some terrible shit...
+You see, these kids have lived through some terrible shit…
 Something like toys or books?
 I'm looking for anything that could distract them, even for a while.
 Books would do wonders to feed their imagination.
@@ -11101,14 +11101,14 @@ I need to think about it, Adam.
 Or in the kids' hands?
 And where will they be more useful? In an archive?
 They belong to the whole community.
-I actually know of some books like that, but... they aren't mine.
+I actually know of some books like that, but… they aren't mine.
 It'd be great if they could get some hope from a few tales.
 Books would do wonders to feed their imagination.
 Something like toys or books?
 I'm looking for anything that could distract them from their suffering, even for a while.
-But they've been badly hurt by this cold... and by many other things before.
+But they've been badly hurt by this cold… and by many other things before.
 It'd be great if they could get some hope from a few tales.
-I actually know of some books like that, but... they aren't mine.
+I actually know of some books like that, but… they aren't mine.
 They belong to the whole community.
 And where will they be more useful? In an archive?
 Or in the kids' hands?
@@ -11125,7 +11125,7 @@ I dream about warm bed...
 We have a chance now. We must get on with the evacuation.
 The situation in the city is getting worse as the army is moving closer every day.
 You really did it, Milena!
-Not yet. We must prepare first, pack everything, and...
+Not yet. We must prepare first, pack everything, and…
 This truck is a mess. We have to fix it and find some fuel.
 Are you saying we have to leave now? Again?
 And what next? Do we know where we're going?
@@ -11144,14 +11144,14 @@ Yeah, yeah that's not really your problem anymore.
 Did you get me something nice?
 Looking for auto parts in a car garage? And you came across a car mechanic!
 What a coincidence! Here, take whatever you need!
-Um... really?
+Um… really?
 Of course not! You want parts, you have to pay!
-Well, I don't have much...
+Well, I don't have much…
 I'm a simple man and I'm fond of simple things. Like gold!
 What do you want for these parts?
 Friends used to call me Crow. You know why?
 Because you caw?
-I'd say be well but... you know how it is these days.
+I'd say be well but… you know how it is these days.
 It's you again! Did you come to see Bertie?
 Who are you talking about?
 Colonel
@@ -11160,12 +11160,12 @@ There are two loves in my life: my car and good old–
 Gold?
 Hah, that's right, smartass! Nothing could hurt my lucky Bertie.
 She's survived two bombings and a raid.
-It seems like you two have a... special connection.
+It seems like you two have a… special connection.
 We do! Once the war is over, I'll give my Bertie a glorious repaint.
-Let me guess... you'll paint her gold?
+Let me guess… you'll paint her gold?
 You bet I will!
 What are you talking about?
-Listen – please don't panic but...
+Listen – please don't panic but…
 Is this some kind of a joke?
 Oh no! Whoever did that's going to pay!
 I think something happened to Bertie.
@@ -11175,13 +11175,13 @@ I won't let you get away with my property!
 That's enough! I'll give you one last chance to leave.
 Oh no! It was a set up!
 Bertie! I'm coming!
-The coil... the filter... Who did this to you!
+The coil… the filter… Who did this to you!
 Stop, you fucking thief!
 Stop, you fucking thief!
 Who the fuck do you think you are? Get the hell out of here!
 I knew you couldn't be trusted! Leave – while you still can.
 Hurry up, asshole. Get out!
-I need a smoke... Don't touch anything!
+I need a smoke… Don't touch anything!
 I've got my eyes on you! Don't close the door!
 Damn it, I need another. I was about to quit and now I'm chain smoking!
 You can join me outside if you want.
@@ -11266,22 +11266,22 @@ And she will lose it, and who knows what else.
 You can find me at the Military Outpost. My soldiers will let you in.
 My offer stands – bring the painting with you and save the whole collection.
 Don't let this madness destroy everything you care about.
-Don't shoot! I'm from the museum. I just want to talk...
+Don't shoot! I'm from the museum. I just want to talk…
 We extended an old network of stone mining tunnels.
-Months of planning, weeks of work underground...
-Sorry about Goran. He can be a bit too... eager.
+Months of planning, weeks of work underground…
+Sorry about Goran. He can be a bit too… eager.
 I don't give a damn about what you want. Get lost!
 Give me just one minute! You're digging tunnels, right?
-You want to get people out of the city...
+You want to get people out of the city…
 I'm warning you for the last time! Stop snooping on us!
-I... I want to make you an offer. Please – hear me out...
+I… I want to make you an offer. Please – hear me out…
 I don't make the decisions around here.
 Then could you take me to someone who does?
-Damn... All right, but I'm warning you...
+Damn… All right, but I'm warning you…
 One stupid move and you'll never see the sun again!
 And now that we're finished, you just want to jump on board?
 I'm not doing this for myself.
-And I'm willing to give a lot for it...
+And I'm willing to give a lot for it…
 You dug all these tunnels?
 It underlies a large part of Pogoren.
 And where's it going to take you?
@@ -11290,16 +11290,16 @@ That would take us safely beyond the enemy lines.
 Tell me, what brings you here?
 I'm looking for a way out.
 Hah! Who isn't?!
-Not for me... for the children.
+Not for me… for the children.
 They're orphans, and they won't last long in this city.
-Children... Who wouldn't help them, right?
-I guess we could smuggle them but...
+Children… Who wouldn't help them, right?
+I guess we could smuggle them but…
 But you want something in return.
 Correct! You live in the Pogoren museum, right?
-I've heard of many precious things kept there. But there's one in particular...
-If you're talking about The Battle of Leech Swamp...
+I've heard of many precious things kept there. But there's one in particular…
+If you're talking about The Battle of Leech Swamp…
 Oh, hell no! How would I smuggle it through the tunnels?!
-But the Sefer al-Zohar manuscript... Now that's the real jewel in your museum's crown.
+But the Sefer al-Zohar manuscript… Now that's the real jewel in your museum's crown.
 Bring the manuscript to me and I will help you.
 Splendid! You did your part, and I'll keep my promise.
 I'll send one of my people to let you know once we're ready.
@@ -11315,7 +11315,7 @@ What the hell? Who is this?
 Get lost, I'm busy.
 Aah! What the hell!
 Hey! Get out of here. Now!
-Fine! You asked for this...
+Fine! You asked for this…
 Fuck it, that's enough!
 I told you, go away!
 Stop wasting my time.
@@ -11329,32 +11329,32 @@ Don't lag behind. I'm not a patient man.
 Come on, let's go.
 Shit! I saw someone there.
 Who the hell are you?
-You're wounded, Milena... I'll get help.
+You're wounded, Milena… I'll get help.
 We did what we could to save it.
-Everything you've built...
+Everything you've built…
 I hoped this day would never come...
-It doesn't matter... I got shot in the street but... I found a way to save the collection.
+It doesn't matter… I got shot in the street but… I found a way to save the collection.
 I got us a deal. Not a perfect one, but it's the only one we have.
-Our painting, The Battle of Leech Swamp... do you have it?
-It's on the truck but the army is looking for it. This colonel...
+Our painting, The Battle of Leech Swamp… do you have it?
+It's on the truck but the army is looking for it. This colonel…
 His troops guard the only way out of the city. He's obsessed with this painting.
 Listen – I made a deal with Taras. He'll hide the collection in an underground vault.
-Taras... You think we can trust him? What does he get out of it?
-The painting... it's his final offer. He's got buyers for it...
-I've protected this painting... and now you want us to give it away?!
-I don't want to! But there's no other way...
-Here's what we have to do...
-You're wounded, Milena... I'll get help.
-It doesn't matter... I got shot in the street but... I found a way to save the collection.
+Taras… You think we can trust him? What does he get out of it?
+The painting… it's his final offer. He's got buyers for it…
+I've protected this painting… and now you want us to give it away?!
+I don't want to! But there's no other way…
+Here's what we have to do…
+You're wounded, Milena… I'll get help.
+It doesn't matter… I got shot in the street but… I found a way to save the collection.
 I got us a deal. Not a perfect one, but it's the only one we have.
-Our painting, The Battle of Leech Swamp... do you have it?
-I... I gave it away... The army was looking for it.
+Our painting, The Battle of Leech Swamp… do you have it?
+I… I gave it away… The army was looking for it.
 Colonel Markov promised to let us through the southern pass!
-We can't trust him! He's a shifty guy, I've heard stories...
+We can't trust him! He's a shifty guy, I've heard stories…
 But he already got what he wanted!
-No... People like him always want more. We can't take the risk.
+No… People like him always want more. We can't take the risk.
 The southern pass is our only chance. We must take it.
-Here's what we have to do...
+Here's what we have to do…
 That should last for some time.
 The whole city is surrounded! Where do you want to go?
 I'm leaving again. Please pass my message to the others...
@@ -11381,7 +11381,7 @@ That manuscript was protected for decades. Many risked their lives for it.
 I'm not going to stop you. Anja.
 And it can help us in saving others. Those are kids...
 But the day you take the manuscript from here will be the last day you ever see me.
-Dear Anja,</n>I told you that the day you decide to take the manuscript would be the last day you ever see me, and I meant it. I couldn't live with myself, thinking that I had taken any part in it. I'm writing this letter so that you know I understand your decision, even though I strongly disagree with it. You've risked a lot to save me, and I understand that you want to do the same for others. I will always be grateful for your help, and I truly hope that you'll be able to save those children. And that the sacrifice you've had to make won't be wasted.</n>Ruben
+Dear Anja,</n></n>I told you that the day you decide to take the manuscript would be the last day you ever see me, and I meant it. I couldn't live with myself, thinking that I had taken any part in it. I'm writing this letter so that you know I understand your decision, even though I strongly disagree with it. You've risked a lot to save me, and I understand that you want to do the same for others. I will always be grateful for your help, and I truly hope that you'll be able to save those children. And that the sacrifice you've had to make won't be wasted.</n></n>Ruben
 I can't believe Ruben left...
 Ruben left without even a goodbye. Did we cross the line?
 All Ruben left was a goodbye letter...
@@ -11505,7 +11505,7 @@ The room is about to collapse. It's too dangerous to secure the exhibits now.
 SECURE
 REMOVE ALL
 MAKE FUEL
-EVACUATE |XPadX|
+EVACUATE
 RETURN ALL
 TAKEN
 ITEM ACTION
@@ -12239,3 +12239,768 @@ Our heritage is priceless. Never forget that.
 Thank you. I'll think about it.
 Heavy Bombings
 This dweller won't steal the item
+Pregnant
+CharacterBios/Pregnant/DeathNote
+My life wasn't easy, but things were looking up before. I've met Petr and suddenly everything started to make sense. We moved in together, I got pregnant... and the war broke out. This child is all I have left of him.
+Livia
+Livia gave birth to a boy, Miko. They stayed in Pogoren where Miko was growing up as the city was rebuilt. After several years Livia met Gregor. They fell in love and are now a family.
+After leaving the city Livia waited out the war in a refugee camp, and gave birth to a boy, Miko. They returned to Pogoren where Miko was growing as the city was rebuilt. After several years Livia met Gregor. They fell in love and are now a family.
+Livia gave birth to a boy, Miko, and left Pogoren to escape tragic memories. She moved to a village where her distant family lived. She raised Miko there with the help of her relatives.
+After leaving the city Livia waited out the war in a refugee camp, and gave birth to a boy, Miko. She never came back to Pogoren, place of so many of her tragic memories. She moved to a village where her distant family lived. She raised Miko there with the help of her relatives.
+After living through the hell of war, Livia died in childbirth. Her son, Miko, survived. He was taken in by Livia's distant family from a village near Pogoren.
+After leaving the city Livia waited out the war in a refugee camp. Shortly after the war she died in childbirth. Her son, Miko, survived. He was taken in by Livia's distant family from a village near Pogoren.
+CharacterBios/Pregnant/EndLog/DwellerDied
+CharacterBios/Pregnant/EndLog/DwellerRejected
+One day Livia decided that is she wants to survive, she needs to run away from the shelter. She was never seen again.
+CharacterBios/Pregnant/EndLog/Suicide
+CharacterBios/Pregnant/EndLog/ChildLeftShelter
+I remember meeting Petr for the first time like it was yesterday. Our eyes met and I knew immediately that something has changed. War took him away from me, but his child growing under my heart and this memory give me strength to survive.
+I remember meeting Petr for the first time like it was yesterday. Our eyes met and I knew immediately that something has changed. But war took him away from me... I'm trying to hold on, but knowing I'll never see him again, I often despair. Only his child growing under my heart keeps me from giving up.
+When the war started, we moved into the basement of our apartment house. Petr dealt with getting supplies, I tried to keep house. One night, a very heavy bombardment started when he was out. I never saw him again.
+When the war started, we moved into the basement of our apartment house. Petr dealt with getting supplies, I tried to keep house. One night, when he was out, dozens of mortar shells started raining upon the city. One of the blasts I've heard that night must've been the last thing my Petr heard...
+This child... it's a blessing. When I learned I'm pregnant, I was beside myself with joy. It's harder to survive this damned war, sure... But this child is all I have left of Petr. It's my reason to live.
+This child... I'm thinking about it all the time. It's all I have left of my Petr, the only reason for me to struggle. But... it makes it all so much harder... I don't know if I can survive this war.
+I just felt something wonderful. Our child... it moved! This war needs to end soon. I don't want to give birth in these circumstances. I wonder if it's a girl or a boy...
+Sometimes I think if it wouldn't be better if we'd never met. He would be somewhere out there, still alive... and my life couldn't be any more miserable. But our child.... maybe it's worth the struggle.
+Pharmacy
+One of several pharmacies that survived the bombardments intact. It was probably looted long time ago, but maybe we still might find some meds there.
+Let's see if there's anything left here...
+Ruined Toy Store
+This toy store used to bring joy to the children of Pogoren. Now it's a silent reminder of the happiness taken away from them by war.
+This place looks so sad...
+Park
+The park is considered a relatively safe area. There are no buildings to attract mortar barrages, and cover of trees discourages snipers.
+It seems so peaceful here.
+Bakery
+This bakery provided fresh bread for many people in pre-war times. Maybe there's still some food left?
+I heard that some people moved in here.
+Shelled Brewery
+One of the oldest buildings in the city. It housed a prosperous brewery, which started gaining international recognition shortly before the war.
+It still looks monumental despite the damage from shelling.
+The Samuel Institute
+The Institute was helping the community until the massacre. As terrible as it sounds, we might find some useful things here.
+It looks someone is here.
+Railway Station
+When the war broke out, people trying to flee the city by train flocked to this station. It was shelled shortly afterwards.
+The last train left a long time ago. The one that was supposed to follow was bombed at the station.
+Music Club
+The ruin of the most luxurious hotel in Pogoren still houses the best music club, located in the basement. Not much of its pre-war splendor survived, but people come here to meet kindred spirits and forget the war for a while.
+It's extraordinary they operate during the wartime.
+Destroyed Music Club
+The ruin of the most luxurious hotel in Pogoren housed the best music club until its owners were killed in a sudden army raid.
+This place sends shivers down my spine.
+Some parts of radiostation are still here.
+Observers warn that we must be prepared for increased shelling tonight. Do not venture outside and stay in the basement if possible.
+They say these cans are quite nutritious.
+The Pogoren Museum lies in ruins after the recent bombardment. The fate of its priceless collections of antiquities and their custodians is unknown.
+Please tell me you have any bandages... I don't think he'll survive any longer.
+I need to find something good for my nephew...
+Anything that should be played with outside is unfortunately out of question.
+I can't imagine what it feels like to be growing up during war.
+This constant fear... I'd really want him to have a normal childhood.
+But it's so fucking hard...
+Ah! It's her!
+He's gone? Great! Thank you so much!
+Geez... You scared me.
+We have to get home quickly, but my sister saw a scary man in the woods!
+Fucking cunt...
+I'll get them some other time...
+Shh, be quiet. He might be armed, so we have to take him out quickly.
+Alright! I've unlocked the doors.
+Fuck... He was supposed to be alone!
+Let's get out of here!
+Boss sends his regards, motherfucker!
+Okay. I'll just take some food for later.
+Oh, and who might that be?
+I'm sorry, but my sight is pretty bad since the accident. Are you here to buy some food, dear?
+Are you here to buy some food, dear?
+Hey mom, it seems we have a visitor.
+I don't want to think what would happen if you weren't around...
+I've heard some men breaking in here!
+Fuck... Okay, I'll take care of them.
+Are you still suffering from the eye pain, mom?
+Fucking thief...
+Looks like our little mouse doesn't have an escape route...
+What should we do with her?
+Fucking bitch. Stealing from us wasn't your smartest decision!
+It's rough times. I think we have to make sure, you won't do that again...
+This place looks great! Don't you think?
+Hello. We're just trying to survive... please don't make it any harder for us.
+You can stay, just keep away from our basement, alright?
+I'm glad I could help that wounded guy in pharmacy.
+I hope those bandages were enough to save his life.
+Sharing the little that we have... It was the only decent thing to do.
+Bandages I gave to this wounded guy... I hope they will help.
+Bandages are hard to come by... perhaps I should've kept them.
+Maybe I shouldn't have given away those bandages after all.
+I too would have helped thas wounded man at the pharmacy.
+Despite our situation, we can still help others.
+It's so hard... can we really afford to help others at our expense?
+Let's hope we won't need those bandages we gave away.
+Bandages are so precious now... was it wise to give them away?
+Why did we give away those bandages... I really wish we hadn't.
+^CharacterName^ is so kind, he saved a stranger in need by sharing our bandages with him!
+We helped someone in need! We're like superheroes!
+I pity those people from the pharmacy... But our survival comes first.
+What was I supposed to do? Return empty handed?
+They're trying to make it through, just like us, and I robbed them.
+I shouldn't have stolen from those poeple at the pharmacy.
+Stealing from helpless people... I'm not better than the soldiers.
+It'll have been my fault if they don't make it through.
+^CharacterName^ stole those things for us. We should be thankful.
+Those people from the pharmacy... they wouldn't make it through anyway.
+I'm happy I was there to help those children.
+We must protect children most of all.
+I just wanted to help those children... I got carried away.
+Killing this man in park... why he just didnt go away?
+That death in park... was it really necessary?
+I should've handled that guy in park differently.
+Death everywhere... I can't stand it anymore!
+My sleep is so shallow recently. This killing in park was just evil.
+Killing that man in park was very unfortunate.
+Many people went crazy... like that guy in the park.
+We should have spared that man in park.
+Those children in park didn't want to kill anybody...
+Killing that man in park... in cold blood... I can't imagine it.
+I can't imagine that ^CharacterName^ killed that man in cold blood.
+I hope those children are okay.
+Those kids must've found another way though the park.
+I feel kind of bad for not helping those children in the park.
+I hope nothing bad happened to those poor kids in park.
+I'm glad I helped that girl in the brewery.
+She was lucky I was there to save her.
+I couldn't help that girl in the brewery.
+The cruelty of men knows no bounds.
+That girl in the brewery... Could I have done something to help her?
+Why didn't I stand up to those bastards? I'm a coward.
+Those people in bakery were lucky that I was there.
+I'm happy I warned that family in the bakery.
+Fortunately ^CharacterName^ was able to warn that family.
+Maybe we can get some food from that family in the bakery.
+War took everyone by surprise. At first people were shocked, struggling to adjust to their new, deadly reality. Now they just try to survive the next day, looking for food and supplies and avoiding danger. </n></n>Livia got pregnant just before the war. When her husband Petr went to get food and didn't return, she started desperately searching for him. She then met Marko, former firefighter, and Zlata, musical school student. They decided to band together to survive.
+You could visit the Samuel Institute. There are good folks working there.
+Please… if you don't find anything…
+I know it wasn't easy to gather fuel and bring it here.
+The fuel you brought me should last for a few days, but I need some food to recover.
+This construction site is a sad reminder of the Pogoren development program that this war interrupted. The abandoned structure might still hold resources necessary for our survival.
+A man collapsed on Anja's doorstep, dying from gunshot wounds and the cold. He is unconscious at the moment, but from time to time Anja can hear single words escaping his mouth. Whatever he dreams of must be truly horrifying…
+One painting, and you can save all the rest.
+Hello! I heard from one of your kids that you could use some help.
+Ah, you must be one of the people Andras told me about!
+He used to help me a lot. Going out scavenging, gathering supplies, and–
+Colonel Markov is waiting for us at this outpost. He promised to let us through a mountain passage in exchange for a famous painting from our collection. We don't know if we can trust him though...
+Milena got caught by soldiers and is being held in this Military Warehouse. We could try to reach her, but this place is heavily guarded by armed men and going there could be extremely dangerous...
+Footprints of Milena's shoes
+Milena's note
+Milena's things
+We have to build a second heater to heat the Museum more efficiently. The temperature inside is dropping rapidly, so we should keep the temperature above 10 degrees to make sure this piercing cold won't hurt us.
+The children's books entrusted to the care of the Museum went where they were needed most: to the orphanage. They helped the kids to cope with their worst memories.
+The children's books entrusted to the care of the Museum weren't lost when Colonel Markov intercepted the collection at the mountain pass. Anja decided to keep them for the kids in the orphanage.
+The children's books entrusted to the care of the Museum were safely stored in a bank vault with the rest of the collection.
+The manuscript disappeared after Anja agreed to part with it in exchange for passage through the tunnels. It was a difficult decision, but it bought the safety and well-being of Adam's charges.
+The manuscript fell into the hands of Colonel Markov along with the rest of the collection.
+Thanks to the choices Anja made, the manuscript was kept safe in a bank vault until the war ended.
+Determined to evacuate the collection from the war zone, Anja took Colonel Markov up on his offer and handed over the painting to him. Alas, he never intended to keep his end of the deal and took over the whole collection.
+Determined to secure a way out of the war zone, Anja took Colonel Markov up on his offer and handed over the painting to him. When she changed her mind, it was too late: the Colonel disappeared along with the painting.
+To save the collection, Anja had to make many hard choices, but she didn't let the pearl of the Museum's collection fall into Colonel Markov’s hands. The painting was hidden in a vault until the end of the siege.
+Despite the desperate circumstances and her determination to save the collection, Anja decided not to give the documents to Taras the fence, not knowing the fate that he had planned for the people he sought.
+Having no good choices and determined to save the collection, Anja decided to give the documents to Taras the fence, not knowing the fate that he had planned for the people he sought.
+Unable to trust either Colonel Markov or Taras the fence, Anja faced a difficult choice. Her decision led to the Colonel's taking over most of the collection. He used the cultural cleansing as an opportunity to get rich, smuggling the artworks abroad and auctioning them piecemeal.
+Unable to trust either Colonel Markov or Taras the fence, Anja faced a difficult choice. Thanks to her decision, the collection was safely stored in a bank vault – to which Taras the fence still had access...
+Anja gave up an item from her private collection – a precious token of her memories – to save the Museum's artworks.
+Crow, the car mechanic, wanted Anja to give him gold for car parts, but she found another way to acquire them. The necklace remained in her possession.
+I need something to heat my place.
+I've already burnt everything I had.
+I don't think you really have much of a choice...
+Hey, you're not hostile right? I'm just looking for something.
+Hey, you won't hurt us, right? We need help!
+Can you do something? Please help us!
+I owe you my life!
+There's blood on the floor, everything is in mess.
+There's nothing left of the family that lived here.
+Hold "ESC" to skip
+It's not something I should be eating while pregnant...
+Force Final Cut content
+Raw meat can't possibly be good for the baby.
+Digging without a shovel? I hope the effort doesn't hurt my baby.
+That's too much... I really wish I had a shovel...
+This is really hard work, I wish someone else could do it...
+That's not something I should be doing while pregnant.
+That's not a job for a pregnant woman, but at least I have a shovel.
+I never thought I'd have to dig while being pregnant.
+Never thought I'd have to be pregnant in such circumstances.
+This place might be safe enough for me and my baby.
+A coulpe of improvements and perhaps it could be livable.
+I'd rather not give birth here... but we can stay here until it's safe.
+I'd better stay in for the sake of the baby.
+I won't go anywhere. It's relatively safer inside.
+I hope I won't have to give birth here.
+I will stay here unless it becomes too dangerous.
+I hope we can find enough food to make it through.
+Will I find a doctor if I need them?
+I hope I can make myself useful, without putting my baby in harm's way.
+I must eat something, my baby needs nutrition!
+I can't stand this hunger anymore. For God's sake I'm pregnant!
+I need to eat something, I'm starving with my child!
+Hey... we dont' want any trouble. Don't touch any of our stuff.
+With this option enabled, you can be sure you'll be playing the content of |#color=FF3800|Final Cut|#defaultcolor| - scenario with new locations. Otherwise it will be included at random.
+Oh, how I'd love to eat some cucumbers with jam.
+I'm sorry baby, mommy has nothing better to eat.
+Tonight the barbarians hit the Pogoren Museum with an air strike. The whole building is in flames, the scale of loss, while still unknown, is going to be catastrophic.
+Do you want to buy some food?
+I don't have much, but you can buy some food.
+Look, we can't fuck this up. We get in, take him out, and run out of here, understood?
+Ah... Please don't mind my younger sister. She's a little touchy, since our father died.
+At least I'm not a robot, like the rest of you...
+I don't understand how can you even think about bussiness at a time like this...
+It's over... Father's bakery is done for. We should focus more on survival instead of wasting our time here.
+We just need to fix it a bit, to make it more secure.
+Let's start with cleaning all this mess. And please check if you could find anything useful around here.
+It already looks pretty nice, but there are still many things we'll need for survival.
+Man... it would be nice to have a bed in here...
+Yeah. I think it already looks much better then that last place we checked.
+^CharacterName^ cares about strangers more than me...
+If ^CharacterName^ really liked me, {mr|he}{fr|she} would've kept those bandages for me.
+If ^CharacterName^ likes strangers so much, {mr|he}{fr|she} can go live with them!
+Yeah, why don't we give away everything we have!
+It's sad, but ^CharacterName^ had no choice. We really need supplies.
+We sometimes have to do ugly things to make it through.
+We're no better than the thugs from the military.
+We've become the very monsters we fear.
+It was nice of those people at the pharmacy to share their stuff with ^CharacterName^.
+It could be better, but at least those kind people gave us some things.
+I'm not sure if ^CharacterName^ is telling me the whole truth.
+Those people ^CharacterName^ told me about must be really stupid to give us all their stuff!
+At least we don't have it as bad as that guy at the pharmacy.
+I guess it could be worse.
+I should make sure we've got enough bandages, just in case.
+We could take advantage of bandages being so valuable.
+Whether you live or die, depends on access to such a simple thing.
+Before the war, I'd never given bandages a second thought.
+That wounded man at the pharmacy... he'll die without our help.
+We can't help others... we can hardly survive ourselves.
+I should've done something to help him...
+I'm useless...
+I feel ^CharacterName^ should've helped that man at the pharmacy.
+If we help others, they might help us in turn.
+I trust ^CharacterName^ had our best interest in mind.
+{mr|He}{fr|She} would've helped that man if it were possible.
+^CharacterName^ would've helped that man, if we weren't starved for bandages...
+So many people get hurt, bandages have become indispensible.
+We're so powerless...
+We couldn't even help that man...
+If one of us gets hurt, nobody will help us.
+I feel it's my fault ^CharacterName^ didn't help that man.
+What would have happened to those children if I hadn't been in the park?
+I'm glad I protected those children. I hope they're still okay.
+I protected those children this time... but who'll do it next time?
+Children are so vulnerable, especially now that the world's gone mad.
+^CharacterName^ did well in the park.
+Helping those children was the right thing to do.
+Nobody is safe in this city anymore.
+^CharacterName^ might have got killed in the park.
+^CharacterName^ protected those children, but who's there to protect them now?
+Poor children, I can't bear to think what horrors they're going through.
+^CharacterName^ met some children and helped them.
+I wish ^CharacterName^ brought those children here. We could play together!
+I wish ^CharacterName^ cared about me as much as {mr|he}{fr|she} cares about other children...
+I don't think ^CharacterName^ likes me, {mr|he}{fr|she} doesn't take me to the park to play...
+I should've helped those kids...
+If something happens to them, I'll never forgive myself.
+I wonder if those poor kids made it through the park.
+All alone, they must've been really frightened...
+^CharacterName^ should have helped those children...
+^CharacterName^ left those children to their fate... How could {mr|he}{fr|she}?
+I overheard that ^CharacterName^ left some children in danger.
+Left alone in the park at night... that's horrifying!
+I would've helped those children, but I'm so small and weak...
+I know I'm useless, I't would be better if I were dead.
+Why are peolpe so cruel to one another?
+War makes men give in to their basest instincts.
+I saved that one girl, but how many were less fortunate?
+The abuse women have to suffer during the war is horrifying.
+That girl was lucky ^CharacterName^ was there.
+It was very brave of ^CharacterName^ to help that girl.
+If ^CharacterName^ hadn't been there... I'd better not think about it.
+How can men be so brutal...
+Humans behave worse than beasts...
+In war the innocent suffer and the vile prosper...
+^CharacterName^ saved a girl from some evil men! {mr|He}{fr|She}'s a hero!
+When I grow up I wanna be as strong as ^CharacterName^!
+I've heard some men attacked a girl, how could they?
+Are all men evil?
+I keep seeing the face of that girl from the brewery...
+Why didn't I help her? Why?
+An innocent girl got murdered, and there was nothing ^CharacterName^ could do...
+Sooner or later we'll all end up like that girl...
+^CharacterName^ could've saved that girl.
+What happened to that girl was horrible.
+Should I really take such huge risks to help others?
+That encounter at the brewery could've ended badly.
+What world have we come to live in?
+People murder one another over a bunch of scraps...
+^CharacterName^ took a great risk at the bakery.
+^CharacterName^ helped that family. Will they help us in turn?
+People are killing each other, the soldiers just have to wait...
+Morality dies first...
+Something really bad happened last night...
+I don't know what happened, but everyone is really sad.
+Bad things happen all the time and there's nothing we can do.
+Sooner or later something bad will happen to me.
+^CharacterName^ was watchful which maybe saved someone's life.
+I'm lucky to have ^CharacterName^.
+I don't want ^CharacterName^ to risk {mr|his}{fr|her} life for others!
+I just want ^CharacterName^ to protect me.
+I was lucky to have escaped those bandits.
+There wasn't much I could do for that family.
+Maybe I could've done something to warn that family...
+I feel guilty I didn't warn that family about the bandits.
+I did nothing to stop those thugs... I was terrified...
+People got hurt because I failed to act...
+Bad things happen outside at night...
+I don't want ^CharacterName^ to leave at night...
+That poor family in the bakery...
+If only ^CharacterName^ had warned them...
+I'd rather not think what they did to that family...
+It's just a matter of time before they come for us next...
+^CharacterName^ came home sad, but I don't know why...
+I wish ^CharacterName^ was happier and could cheer me up...
+Letting go of those bandages was hard, but maybe it'll pay off in the future.
+Bandages are valuable, but so is medicine. We might be better off this way.
+We need bandages, I couldn't afford to share them.
+I pity that man at the pharmacy, but helping others comes second to our survival.
+I did what I had to do, to ensure we make it through.
+If only there was another way to get what we need... But there isn't, so we just have to grit our teeth and carry on.
+Helping those children was risky, but I just had to do it.
+Children are our future, we need to protect them.
+I couldn't risk confrontation in the park... What if I'd got hurt, or killed? Who'd have brought back supplies?
+Shame about those kids, but our survival comes first. Enough said.
+That was risky! I acted without thinking. But at least I'm alive and that girl is safe.
+I acted on impulse, and it might have ended badly. I gotta be more careful.
+If I'd tried to intervene, it would be my corpse lying there right now.
+There was nothing I could've done. Those thugs would've killed me!
+That was a hell of a risk. I'm glad I made it back.
+I shouldn't take such risks if I am to make it through.
+If I'd tried to warn that family, chances are I wouldn't have made it back alive.
+I didn't want to risk confrontation with those thugs, returning with supplies seemed far more important.
+I know it's tough, but when I looked into that man's eyes, I knew I just had to give him those bandages.
+We could be in the same position, we need to make sure we have friends in the city.
+This war will not turn us into animals, so long as we stick together and share what we have.
+I just couldn't leave that man without aid.
+I'm afraid those bandages may not be enough to save that man... but at least we tried.
+We do what we can to help others, but it'll never be enough.
+If we had enough bandages, I might have shared some with that guy.
+We need every bandage we can get our hands on, we can't afford to share them.
+That wounded man? Tough luck. Our well being comes first.
+We have our own problems, that man must get his bandages elsewhere.
+Even if I'd given bandages to that man, that wouldn't haae been enough.
+We can't save every wounded person in the city. It's impossible.
+That man really needed bandages... We should get him some.
+I should return to that man with bandages, if I can find some.
+I can't go round the city just giving away our bandages to everyone who needs them.
+It'd be ironic if I'd given away our bandages only to find myself needing them later.
+It pains me to think of that wounded man, lying there dying and helpless...
+That poor wounded guy... this war has brought us so much suffering...
+I'd have helped those kids if we didn't have more pressing problems.
+Helping those children could've put us in danger. I couldn't risk that.
+How could I leave those kids all alone... what was I thinking?
+I'm so ashamed I didn't help those kids. I was scared, I'm such a coward.
+If I risked my head for every lost child in the city, I'd long be dead.
+I'm not a hero, I just want to make it through this war. If I take unnecessary risks, I won't.
+There are many lost kids in the city, it's not my responsibility to look after them all.
+Kids wandering alone at night... That's just asking for trouble. Stupid brats.
+Those kids were not my problem. We have more pressing issues to deal with.
+Kids should stay at home or in the shelter, not wander aroud the city all alone.
+I didn't help those kids, and if something happens to them it'll have been my fault.
+I know I'll be the one to blame if those kids from the park get hurt, but I just couldn't help them.
+If I'd tried to help those children, I'd probably have made things worse. I'm so useless.
+Even if I'd helped those children this once, they'd get into trouble another time.
+Risk my head for those kids? Fuck that, they're unlikely to survive anyway.
+Who cares about some stray brats? The city's full of them, there's nothing I can do about it.
+I wouldn't have done it if we weren't so starved for supplies.
+Maybe what I did was immoral, but this war has changed the rules we used to live by.
+What have I done? How have I become a criminal?
+What was I thinking? What I did was despicable!
+It's war, what was I supposed to do? Come back empty handed?
+When all this is over, those people won't be alive to tell anyone I robbed them.
+These supplies were wasted on them, we'll make better use of them.
+What I did changes nothing. They wouldn't make it either way.
+How did I get this stuff? Get off my back and be glad we have it.
+Don't ask me how I got these supplies. We do what needs to be done.
+I commited a crime, and for what? We'll soon run out of supplies anyway.
+War has driven me to do horrible things, maybe I don't deserve to live?
+Who's to protect helpless children if not us?
+We must make sure children grow up to be kind, despite the trauma of the war.
+I wish I could've done more for those children.
+It pains me to see children scarred by the experience of war.
+I was there to help those children this time, but their chances of survival are still very slim.
+Children are easy prey to all sorts of thugs, especially now.
+Sadly, helping those children once will not prevent them from becoming traumatised by this war.
+I was there to help those kids, but what will happen next time, when I'm not there?
+I'm glad I saved that girl, though it was very dangerous. I have to be careful.
+That girl was really lucky I was there. I hope she'll be alright.
+If we don't stand up to bullies, who will?
+The only thing necessary for the triumph of evil is for good men to do nothing.
+Saving that girl wasn't worth risking my life.
+That girl is safe now, for all that it's worth.
+Stupid girl. I risked my life for her.
+I shouldn't have risked my life for some stupid girl.
+I saved that girl this time, but there won't always be someone to protect her.
+Girls have it really hard when all civilisation collapses.
+You can save someone sometime, burt you can't save everyone all the time.
+Evil is part of human nature, and there's nothing we can do about it.
+It's unsafe enough even without such bastards prowling the streets! I'd kill them all if I could.
+I wish I could kill every motherfucker preying on the weak.
+I risked my life for some dumb bitch. What was I thinking?
+Now that was one bloody stupid rescue. I should've kept away from trouble.
+I wanted to help that girl, but I have others to care for. I couldn't take that risk.
+Risking my life for that girl would lead us nowhere. I'm sorry but it's true.
+I wanted to help that girl, but I was afraid. It turns out I'm a coward...
+I didn't save that poor girl... I stood by, did nothing, and now she's dead.
+She was neither the first victim of this war, nor will she be the last. War is hell.
+What good would it do, if I'd let myself get killed trying to save that girl?
+What was I supposed to do? Let myself get killed for that girl?
+If I'd tried to stop them, they would've killed me too.
+Wandering the city by herself... she was tempting fate. What was I supposed to do?
+All alone... she got what was coming. There was nothing I could've done.
+I couldn't help that poor girl. If I'd tried, I'd be lying there dead along with her.
+If I'd tried to help that woman, I would've just got myself killed.
+I'll never forgive myself for not helping that woman.
+I didn't save that woman... I'll never forget her face.
+They murdered that woman in cold blood. They would've done the same with me if I'd tried to stop them.
+Risking my life to save that woman would've been pointless. There was nothing I could've done.
+I'm glad I warned that family. Maybe they can somehow help us in return.
+Good thing I warned that family, now there'll be fewer bandits to plague us.
+I don't even want to think what would've happened if that family had been surprised by the bandits.
+If I hadn't warned that family, the bandits would've taken them by surprise.
+I risked a lot to warn that family. They had better show some gratitude.
+I risked my head for that family. I hope it was worth it.
+How much longer before everyone turns to violence to survive?
+No matter how many times we foil bandits, there always seems to be more of them.
+The situation in the city is growing worse by the day, and bandits are becoming ever more persistent. We're fighting a losing battle.
+What could've pushed those men to commit such acts of violence? Hunger? Base instincts?
+Bandit scum, may they rot in hell.
+Those bandits are no longer men, they're vermin.
+Maybe warning that family wasn't such a good idea after all. I could come back later to collect the leftovers.
+If I hadn't warned that family, the thugs would've done the dirty work, and I could scavenge whatever they'd have missed.
+If those bandits come for us next, we must be ready to fend them off.
+Perhaps there was something I could've done to help that family, but It would've been very dangerous.
+I failed to warn that family, and whatever happened to them is my fault.
+I should have warned that family, but it's too late now. What's done is done.
+Leaving the shelter is getting riskier by the day. I'd gladly let someone else do it.
+I'm fed up with risking my life just to get some scraps!
+I'd better avoid that bakery, it's not safe there.
+How are we to survive with all those bandits around?
+I didn't risk my life for that family. So what? They're not our concern.
+I would've risked my head for family or friends, but for strangers?
+Poor family, I can imagine the same thing happening to us.
+We're all just prey to bandits. They'll come for us sooner or later.
+I'm worthless. I couldn't even warn that family...
+I I'd warned that family woul'd they have been able to repel those bandits? Probably not...
+Fuck! That was a close one. I think I need a drink to calm my nerves.
+Fucking bandits! They're all over the city, like maggots on a corpse.
+I'm glad I made it back alive. I'm not sure I wanna come back there, maybe someone else could go.
+That was a close one! Maybe tonight I should stay in the shelter.
+Shame about those bandages. No telling where or when we can find another batch.
+Those were some good bandages. Let's hope we don't regret giving them away.
+We may miss those bandages, but giving them away was the right thing to do. Those people are just like us.
+If I'd been in ^CharacterName^'s place, I'd have saved up those bandages for us.
+I'm glad we could help those people.
+Those bandages may have saved that man's life. I'm glad ^CharacterName^ was there to help.
+Damn, bandages are in short supply. We should not let go of them so lightly.
+Sure, why don't we let go of all our bandages. It's not like there's war going on.
+Giving away those bandages might yet come back to bite us.
+^CharacterName^ shouldn't have given away our bandages. How can we survive without them?
+Is ^CharacterName^ mad? We could really use those bandages.
+It wasn't smart to give those bandages away. We may yet come to regret it.
+Those bandages will serve that man better than us. I don't think we'll make it anyway.
+What's a bunch of bandages, when there's almost nothing left anyway.
+^CharacterName^ helped those peolpe because {mr|he}{fr|she} is kind.
+We should always help those in need.
+Bad people hurt others all the time now.
+If I get hurt will anyone help me?
+How could ^CharacterName^ give away our bandages? What if I need them?
+Giving away our things to others is so stupid!
+It'd be best if we held to every bandage we can find. That man should get his own elsewhere.
+Helping others is noble, but we cannot spare any vital supplies.
+He's got his woman to look after him, he doesn't need our help.
+His woman can easily aquire bandages from the military. They'd be happy to help her.
+We should help that wounded man. Maybe it's not to late!
+Maybe we can still save that wounded man, we should at least try!
+^CharacterName^ met some wounded guy, but couldn't do anything to help him.
+If I'm not careful and get hurt, nobody will help me. I'll end up like that man ^CharacterName^ told me about.
+I should get a gun, or a knife, so that nobody can hurt me, like they hurt that man at the pharmacy.
+It's probably too late to save that wounded man.
+Poor man, there's little we can do to save him. Bandages probably wouldn't be enough anyway.
+^CharacterName^ did what had to be done. Sadly, it's us or them.
+I don't condemn ^CharacterName^ for stealing to ensure our survival. I would've done the same.
+^CharacterName^ tarnished {mr|himself}{fr|herself} for our good. That was very brave of {mr|him}{fr|her}.
+^CharacterName^ did what {mr|he}{fr|she} did for us. We should appreciate it.
+We might survive, but we will live out our days in shame.
+If we make it through this hell, what stories will we tell our children? How can we tell them the truth?
+If stealing is the only way to make sure I live, so be it.
+If stealing means I'll make it through, I'm okay with it.
+^CharacterName^ brought us some gifts he got from a friendly couple.
+It was very kind of that couple to give ^CharacterName^ all those things.
+I think ^CharacterName^ isn't telling me the whole truth about these things {mr|he}{fr|she} brought.
+Did ^CharacterName^ steal those things and lie to me about it?
+The strong take from the weak. I must make sure I'm strong!
+If someone tries to steal from us, I'll kill them!
+^CharacterName^ took a risk for those children. It could've ended badly.
+It's good ^CharacterName^ aided those kids. They are our future.
+Preying on helpless children is disgusting, I'm glad ^CharacterName^ protected those kids.
+Children must be protected against violence and abuse, lest they become violent themselves.
+I was relieved to hear ^CharacterName^ helped those poor kids.
+Those kids got really lucky ^CharacterName^ was there to help them. I'm glad {mr|he}{fr|she} did.
+Helping stray kids is good and all, but we need to keep focused on the more important stuff.
+Who cares about some stray kids, the city's full of them. We have ourselves to look after.
+^CharacterName^ is a true hero! He helped children in distress!
+When I grow up I wanna be brave and strong like ^CharacterName^.
+^CharacterName^ helped those kids this time, but I doubt they'll make it through the war unscathed.
+Kids wandering around the city alone are just asking for trouble.
+I'm pretty sure those kids are going to get in serious trouble sooner or later.
+I wouldn't be surprised if we were never going to see those kids again.
+Children wandering the city on their own... I don't even want to imagine what could've happened to them.
+^CharacterName^ won't always be there to protect those kids. They're bound to get into serious trouble eventually.
+I'm afraid! I don't wanna end up alone like those children...
+I'd be terrified If I had to go through that park alone at night...
+When I grow up, I'll always carry a gun, so that nobody can hurt me.
+When I'm older and bigger, and stronger, and someone tries to hurt me, I'll kill them!
+I can't blame ^CharacterName^ for not helping those kids. Why take unnecessary risks?
+Survival is hard even without taking risks for strangers. ^CharacterName^ was right not to put {mr|himself}{fr|herself} in danger.
+It was a hard decision to make, so I won't judge ^CharacterName^. I don't know what I would've done if I were {mr|him}{fr|her}.
+^CharacterName^ risking {mr|his}{fr|her} life would have put us all in danger. {mr|He}{fr|She} made the right decision.
+How could ^CharacterName^ ignore the pleas of little children?
+Not helping those kids in need was heinous. ^CharacterName^ should be ashamed.
+What's with all this fuss about some random kids? I couldn't care less.
+Who can tell for sure if those kids weren't going to lure ^CharacterName^ into a trap?
+I've heard ^CharacterName^ met some other children in the park, but unfortunately they couldn't come to visit us.
+I'd like to meet other children. Maybe next time ^CharacterName^ will take me along?
+Even if ^CharacterName^ had helped those kids once, what difference would it make in the long run?
+Those kids, like many others, simply have no chance of surviving this war.
+If it were up to me, I wouldn't have let those kids end up in that mess in the first place.
+^CharacterName^ did not help those kids, but it wasn't {mr|his}{fr|her} responsibility after all.
+I don't even want to imagine what happened to those kids when ^CharacterName^ left them all alone in that dark park.
+Poor kids... ^CharacterName^ ignored their cries for help, just like the international community ignores ours.
+I'm lonely... I wish I had some friends my age to play with...
+I never see other children... I feel lonely...
+^CharacterName^ met some children in the park! Why am I not allowed to go out anywhere? I hate this place!
+Everyone can go out but me! I hate being treated like a little child!
+What ^CharacterName^ did at the brewery was bloody risky.
+^CharacterName^ put {mr|himself}{fr|herself} in danger for that girl. That was an unnecessary risk.
+^CharacterName^ is one brave {mr|man}{fr|woman}.
+To risk {mr|his}{fr|her} life like that, in order to save someone? That was very brave of ^CharacterName^.
+I'm glad ^CharacterName^ had the courage to stand up for that girl.
+That was very brave of ^CharacterName^ to put {mr|himself}{fr|herself} in danger for that girl
+^CharacterName^ saved that girl, but how many are less fortunate?
+It seems that for every person willing to risk their life for others, there are two willing to hurt someone just because they can.
+^CharacterName^ was reckless to risk {mr|his}{fr|her} life for that girl.
+If I were ^CharacterName^, I wouldn't have risked my life for that girl.
+^CharacterName^ stood up to bullies, which isn't an easy thing to do!
+^CharacterName^ was very brave and fought some bullies!
+Bullies are the worst... They make your life hell.
+Why do the strong hurt the helpless? Why?
+I hate bullies! One day I'll get a gun and kill them all.
+When I grow up I'll kill anyone who tries to hurt me.
+If I were ^CharacterName^ I wouldn't have risked my life either.
+That woman's life was forfeit. If ^CharacterName^ had tried to help her, {mr|he}{fr|she} would've got killed too.
+It's hard to say what I'd have done if it had been me there instead of ^CharacterName^.
+^CharacterName^ made a difficult call, but I wasn't there so I won't judge.
+I can't believe ^CharacterName^ did nothing to save that woman. I'm speechless.
+How could ^CharacterName^ just let those men murder that woman?
+^CharacterName^ was smart not to get involved. I'd have done the same.
+Intervening would've been reckless. ^CharacterName^ acted sensibly.
+Something terrible happened but no one is telling me what it was.
+I wish people would take me more seriously, and told me everything.
+^CharacterName^ was powerless to prevent that murder. We can barely defend ourselves.
+We can't even defend ourselves, how could we possibly defend others?
+I don't care about that woman, the importnat thing is that ^CharacterName^ didn't get killed.
+I wouldn't have risked my life for that woman too. We have plenty of our own problems.
+^CharacterName^ didn't save that woman and now she's dead. It's {mr|his}{fr|her} fault.
+^CharacterName^ is to blame for that woman's death.
+Something horrible happened. Again. We should get used to it.
+Another bad thing happened. I don't even care anymore.
+I hate it when people know something and they don't tell me.
+Why does no one tell me anything? I'm not a child anymore!
+^CharacterName^ did the right thing warning those people. Maybe we can trade with them now.
+The lesson here is to always leave someone on guard.
+^CharacterName^ showed those bandits that we will not be intimidated, we will fight.
+It's good to know that we aren't the only ones repelling the bandits.
+Whoever those poeple are, ^CharacterName^ was right to warn them.
+Nobody deserves to be murdered in their sleep. I'm glad ^CharacterName^ warned that family about the bandits.
+I'm sure glad it wasn't me scavenging last night!
+I need to get myself a gun and ammo, in case someone decides to attack our shelter.
+^CharacterName^ warned some family about bandits who wanted to break into their home. {mr|He}{fr|She} was very brave!
+I feel much safer when ^CharacterName^ is around.
+^CharacterName^ warned those people, but would they warn us if we were in danger?
+^CharacterName^ risked much to warn that family. Would they have done the same for us?
+I guess it's better if bandits try to hit other houses, and leave us alone.
+The fewer bandits there are, the better.
+I'm glad ^CharacterName^ warned those people, but it seems that bandits are becoming ever more brazen.
+It's horrible how some people are willing to murder others just to get what they want.
+I'm scared that bandits will come to our house to hurt us!
+Who will protect me if the bandits come when ^CharacterName^ isn't here?
+If bandits come to our house, ^CharacterName^ will kill them for me.
+When I grow up, I'll kill everyone who comes to my house uninvited.
+It's hard to blame ^CharacterName^ for not warning that family. It was a dangerous situation.
+We mustn't get caught by surprise like that family. We should always put someone on watch.
+Maybe ^CharacterName^ didn't warn that family, but {mr|he}{fr|she} came back to warn us, which is far more important.
+^CharacterName^ came back and warned us about the bandits. We must be prepared to repel them.
+I don't understand why ^CharacterName^ didn't warn that family. It couldn't have been too hard!
+If I were ^CharacterName^, I'd have told that family about the danger.
+I must make sure I have some weapons and ammo, in case those bandits decide to hit us next.
+We can't let bandits surprise us, like they did that family. We must be vigilant.
+^CharacterName^ was in danger last night. I don't want {mr|him}{fr|her} to leave after dark! What if {mr|he}{fr|she} doesn't come back?
+I don't know what I'll do if ^CharacterName^ doesn't come back one day!
+Once those bandits are done with that family in the bakery, they'll probably come for us.
+Once they've cleaned out the bakery, those thugs will search for new prey. We might be it.
+I don't care about that family, I'm just glad ^CharacterName^ came back in one piece.
+If those bandits come for us next, we'll be ready for them.
+Have we become so numb that we no longer care about others?
+^CharacterName^ should've at least tried to warn that family...
+Why can't ^CharacterName^ stay with me at night? I don't want {mr|him}{fr|her} to get killed!
+I'm worried whenever ^CharacterName^ leaves for the night...What if {mr|he}{fr|she} gets killed?
+I hate it when ^CharacterName^ leaves for the night! I hate it!
+If ^CharacterName^ gets {mr|himself}{fr|herself} killed, I'll never forgive {mr|him}{fr|her}!
+Injured man
+Despite our tough situation, we shared our bandages with the injured man in the pharmacy.
+We didn't share bandages with an injured man we encountered at the pharmacy.
+We robbed helpless people
+We robbed a woman tending to a wounded man.
+Children in need
+^CharacterName^ met a couple of children on their own, and helped them get through the park safely.
+^CharacterName^ met a couple of children on their own, but did not help them get through the park.
+A girl in distress
+Two men brutally assaulted a girl but ^CharacterName^ stood up to them and saved her.
+Two men brutally assaulted and murdered a girl. ^CharacterName^ could only watch it happen.
+Break-in
+^CharacterName^ noticed bandits trying to break into a bakery, and {mr|he}{fr|she} warned the family who lived there.
+^CharacterName^ noticed bandits trying to break into a bakery, but {mr|he}{fr|she} didn't warn the family who lived there.
+Why can't we cook it? I shouldn't do it to my child.
+Probably the healthiest food we can get...
+It's tasteless, but it'll keep us strong, my darling.
+We will survive on this. Mommy will make sure you live.
+After the war I will cook for you much better food. I promise.
+I'm so hungry, it's becoming unbearable!
+I know you're hungry darling, mommy will find something to eat.
+I'll get some food to keep you strong and healthy, I promise.
+We need food! It's not about me, it's about the baby.
+Finally, an amount of food that'll keep us strong.
+I wish we could eat like that every day.
+Sleep now my darling, we'll eat again tomorrow.
+I promise I'll never let you go hungry, when all this is over.
+I'ts not very serious, but I'd better tend to it anyway.
+I should bandage it before it gets worse.
+It's not just about me, I have to think about the baby.
+Even a flesh wound can start festering in such conditions.
+I'm bleeding! I only hope the baby will be alright...
+I must see a doctor, or at least a nurse. It hurt's so much!
+I need medical attention, for the sake of my baby!
+Mommy is hurt, baby, but we will be alright, we have to!
+I'm bleeding! Someone help me, for the sake of my child!
+Am I dying? It can't end like this! What about my baby...
+Anyone, please save me! Save my child!
+There's so much blood! Can anyone stop this bleeding?! Please...
+I don't feel well, I should stay in bed.
+Even the slightest ilness might be bad for my baby.
+I think it's bad enough that I should get some meds...
+I hope I can get meds that are safe for pregnant women.
+I'm shivering.. I really need meds...
+I need to be healthy for my baby, someone help me...
+Please give me some meds, for the sake of my unborn child!
+I don't want to lose my baby, please help me get back to health...
+I'm really tired, and being pregnant doesn't help.
+I must rest for my baby's sake.
+Mommy needs some sleep baby, I know you do to.
+I'm exhausted, I need at least a couple of hours of sleep...
+If I don't rest now, it may be bad for the baby.
+Exhaustion might lead to miscarriage... God, don't let that happen!
+I can't fight off sleep anymore, I'm too exhausted...
+Mommy will just lie down for a short while...
+I must rest, even for just a couple of hours....
+I really shouldn't be sleeping on the floor, for the sake of the baby.
+I need a proper bed, especially in my condition.
+I can't sleep on the ground, my belly makes it unbearable.
+It's bad for my child if I don't sleep in bed.
+I must get warm to keep my baby safe!
+Mommy is trying to keep you warm baby, but it's so cold...
+Oh God, don't let us freeze to death!
+All this will be over one day, and mommy will show you the world.
+I feel we can survive this hell after all.
+Don't worry, mommy will always be there for you.
+You are the future of this country my baby. You will make it a better place.
+It is always darkest just before the dawn.
+I'm glad you're not born yet. You will have no memories of all this.
+You will have a happy childhood. I'll do everything to make it so, I promise.
+This is not how I had envisioned my pregnancy...
+Will this war have ended by the time you are born?
+How can I hope to give birth in such conditions?
+Our situation is getting worse by the day...
+I'm afraid we might not make it after all...
+I'm losing hope...
+Will I ever hold you in my arms?
+How can I bring you into such a horrible world...?
+I'm sorry baby, mommy did everything she could...
+I'm glad ^CharacterName^ helped that hospital. Those people working there are very brave.
+How could ^CharacterName^ steal from the hospital? We may yet need their help!
+Those poor people... I must believe ^CharacterName^ robbed them for the good of my baby.
+Oh God... That elderly couple is dead. It must be our fault.
+What ^CharacterName^ did was vile... Would {mr|he}{fr|she} have done it, if it weren't for me and the baby?
+It was very kind of ^CharacterName^ to share with that homeless man. I want my child to live in a world filled with kindness.
+^CharacterName^ did not share food with that homeles man, but perhaps {mr|he}{fr|she} was thinking about my baby. The baby is all that matters.
+I'm sure ^CharacterName^ would've helped that man, if it were only possible.
+Thanks goodness ^CharacterName^ helped that man reach his child! If {mr|he}{fr|she} hadn't... Better not think about it.
+Another victim of nationalism and hatred. How can I bring a child into such world?
+Poor girl... I hope for her sake, she doesn't get pregnant... A child should be the product of love.
+Poor girl... I hope for her sake, she doesn't get pregnant... A child should be the product of love.
+If ^CharacterName^ hadn't been there to save that girl... I don't even want to think about it.
+That brothel... How can men be so vile and repulsive? I was so lucky my husband was nothing like it.
+How can people do such horrible things to one another, what has this world come to?
+How do people become such cold murderers? Is it the issue of upbringing? Lack of education? Not enough love in life?
+Goodwill and trust are necessary if we are to rebuild our society for our children.
+I wish ^CharacterName^ had helped that man. We must strive to be good and kind despite the adversities.
+I wish ^CharacterName^ hadn't stolen from those poeple. What goes around comes around.
+I'm relieved to hear that ^CharacterName^ helped those children. Children need all the protection they can get, especially at a time like this.
+I can't believe ^CharacterName^ left those children without help! They're children for God's sake! They need all the help they can get!
+How can men become so bestial as to attack a helpless woman? I'm glad ^CharacterName^ was there to save that woman.
+How can men become so bestial as to attack a helpless woman? Repulsive!
+It is admittedly safer indoors, but I'm frightened to think someone could come to hurt us.
+We're not safe here! Someone could come to murder us in out sleep!.
+I must be careful not to contract the disease from ^CharacterName^. I can't take any risks with the baby in my belly.
+Oh no... ^CharacterName^...
+How horrible! Poor ^CharacterName^...
+We've lost ^CharacterName^...
+^CharacterName^... So tragic...
+Bandits came at night and murdered ^CharacterName^. If only there had been something I could have done.
+Maybe if I weren't pregnant I could have fought the bandits, and ^CharacterName^ would still be with us.
+How horrible! We must make sure no one else dies of cold
+If only we could have made this place warmer, ^CharacterName^ would still be alive.
+So tragic... Perhaps ^CharacterName^ shouldn't have taken that risk...
+^CharacterName^'s death is a painful loss.
+Unless we get our hands on some meds, we won't make it!
+We really need to get some meds, otherwise we'll have no chance.
+We're starving... We must get our hands on some food, and quickly.
+We won't make it without food. There must be something we can do to get it!
+I guess this is it then. Without food we're done for... My poor baby, how I'd wish to hold you in my arms at least once.
+It seems it's the end of the road for us... I'll never see my baby...
+Everyone is in such poor shape... are we doomed?
+Is this how it ends? With everyone dying of wounds?
+We failed ^CharacterName^... We should've done something! Anything!
+It's our fault that ^CharacterName^ took {mr|his}{fr|her} own life. We should've shown more support.
+How could have ^CharacterName^ done such a thing to us?! What shall we do now?
+What ^CharacterName^ did, was despicable. How could {mr|he}{fr|she}!? How will we survive now?
+I don't think it was wise of ^CharacterName^ to leave on {mr|his}{fr|her} own like that.
+^CharacterName^ shouldn't have left. We would have better chances of survival if we stayed together.
+It's entirely our fault that ^CharacterName^ left us. We were horrible to {mr|him}{fr|her}.
+Now wonder ^CharacterName^ left us. Who would be able to put up with such disregard?
+Poor ^CharacterName^, everyone's so mean to {mr|him}{fr|her}.
+We can't treat ^CharacterName^ like that anymore, it's so unfair...
+I hope ^CharacterName^ is better now. Protecting children is our primary responsibility.
+Oh my God, how could we have failed ^OtherCharacterName^ and ^CharacterName^ so much, they decided they were better off on their own?!
+Thanks goodness there's a doctor at the hospital! It's a relief to know he will help me if there's a need.
+Set up mods, manage workshop and Babel content or create your own scenario.
+Start over the scenario or begin another game with a different set of dwellers and locations.
+Discover This War Of Mine: Stories
+Choose different episodes of This War Of Mine: Stories
+Ruben escaped certain death many times, but finally fate has caught up with him. Apart from a few friends, there was nobody left alive to mourn him.
+Zoran fought tirelessly to help Milena save the Museum, dreaming secretly of rest. He finally found it; too early and not the way he had hoped for.
