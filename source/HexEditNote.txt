@@ -1,8 +1,10 @@
-﻿HEX Edit Note for Current Version
+﻿使用 HxD 進行編輯
+
+HEX Edit Note for Current Version
 
 插入點前端末緣 2E 00 63 00 6F 00 6D 00 00 00
 
-S: BB B3 16 00 0D 33 00 00 21 00 55 --> 92
-E: 96 CB 62 28 57 AB 8E 8C 5F 02 30 --> 16B450
+S: A5 B3 16 00 0D 33 00 00 21 00 55 --> 92
+E: 96 CB 62 28 57 AB 8E 8C 5F 02 30 --> 16B430
 
 插入點末端前緣 04 00 A2 C6 04 00 01 5F 73 79
